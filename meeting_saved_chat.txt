@@ -1,0 +1,3228 @@
+10:03:36 From Monzer "Mike" to Everyone:
+	yes, link only has recording but not slides
+10:04:32 From Sajid to Everyone:
+	Can some one confirm who sent the class recording and what time yesterday? I did not receive any email.
+10:04:44 From Boubacar to Everyone:
+	Password for the recording doesn't work
+10:04:48 From Umair Iqbal to Everyone:
+	It’d be better if you shared slides separately for the reference.
+10:04:57 From Parsa to Everyone:
+	just screenshot the recording for the slides if they are not providing
+10:05:32 From Parsa to Everyone:
+	so many people have asked and its not being addressed which indicates its not being provided
+10:05:33 From faizatabassum to Everyone:
+	Yes ...aoa
+10:05:34 From Shaikh Rasool to Everyone:
+	yes
+10:05:35 From codebase to Everyone:
+	yes
+10:05:36 From Barzan Ahmed to Everyone:
+	Yes
+10:05:37 From alchweki to Everyone:
+	yes
+10:05:37 From Shamim Mazumder to Everyone:
+	yes
+10:05:37 From Rubeena to Everyone:
+	Yes
+10:05:39 From nana to Everyone:
+	yes
+10:05:41 From Rubeena to Everyone:
+	Asalamalikum
+10:05:43 From g arif to Everyone:
+	yes
+10:05:51 From Barzan Ahmed to Everyone:
+	Wa Alayka salam
+10:06:19 From TLEDINSTDMPDC994MF3V to Everyone:
+	Walykum asallam
+10:06:45 From Mohammed Hameed to Everyone:
+	So far so good
+10:06:45 From Umair Iqbal to Everyone:
+	Walekum Asalam WRA!
+10:06:52 From Amer Nazimuddin to Everyone:
+	The recording is fine but I think for most of us here, it would be just easier to get a copy of the slides (pdf is fine) so we can refer to all the written content easily rather than hopping back and forth in the recording to find what we need.
+10:06:56 From kaame to Everyone:
+	where can we find the slides?
+10:06:57 From Shaikh Rasool to Everyone:
+	How many days you can keep the recording on the link provided ??
+10:06:59 From faizatabassum to Everyone:
+	The priority of GRC ….??? Can youmplz explain again
+10:07:01 From Barzan Ahmed to Everyone:
+	Have you had any students that passed the CISSP after this bootcamp?
+10:07:03 From Taha Tareen to Everyone:
+	Can we get the slides seperatly
+10:07:07 From senthilkumar vaithilingam to Everyone:
+	Jee, Thanks for your help guidance. Its great. 	One suggestion/help,	When you ask the question, finally share the correct answer.
+10:07:16 From Monzer "Mike" to Everyone:
+	yesterday was all good and clear
+10:07:19 From Taha Tareen to Everyone:
+	Is this bootcamp plus the books enough to pass the exam?
+10:07:23 From Sajid to Everyone:
+	will we get slides? may be in PDF format?
+10:07:23 From Rawan to Everyone:
+	Reacted to The recording is fin... with "👍"
+10:07:24 From Hasan to Everyone:
+	Are we doing only theory or will work with tools that are used in Cybersecurity job?
+10:07:25 From Boubacar Housseini to Everyone:
+	Password for recording doesn't work. Please double check
+10:07:36 From Hasan to Everyone:
+	Are we doing only theory or will work with tools that are used in Cybersecurity job?
+10:07:43 From hirasaiyed to Everyone:
+	Can you do a final review class before we take exam in 2-3 months?
+10:07:43 From Fahim Ahmed to Everyone:
+	Replying to "Jee, Thanks for your..."
+	
+	He does, just confirms whether we got it right
+10:07:50 From Amer Nazimuddin to Everyone:
+	Are you a credited isc2 trainer and any discounts for the CISSP exam thru you?
+10:07:57 From ayesha ather to Everyone:
+	difference in CISSP and  COMPTIA Security+
+10:08:12 From Fahim Ahmed to Everyone:
+	Replying to "Are we doing only th..."
+	
+	I'm curious about this as well
+10:08:14 From g arif to Everyone:
+	Can you provide a flow sheet after each topic
+10:08:19 From ndella to Everyone:
+	the password was different
+10:08:22 From ndella to Everyone:
+	it works
+10:08:27 From ndella to Everyone:
+	it is nit 0224
+10:08:28 From alchweki to Everyone:
+	got it
+10:08:33 From Hadiya Ansari to Everyone:
+	it worked for me
+10:08:56 From Shamim Mazumder to Everyone:
+	watch space when copy pasting the password
+10:09:01 From faraz khan to Everyone:
+	Yes please
+10:09:05 From Sajid to Everyone:
+	yes please
+10:09:05 From Amer Nazimuddin to Everyone:
+	Thanks!
+10:09:08 From Hadiya Ansari to Everyone:
+	yes please
+10:09:13 From Umair Iqbal to Everyone:
+	Replying to "difference in CISSP ..."
+	
+	CISSP is more acceptable in the industry and considers as a core certification of CS. While Comptia is kinda basic
+10:09:21 From Amer Nazimuddin to Everyone:
+	Reacted to "The recording is fin…" with 👍
+10:09:54 From senthilkumar vaithilingam to Everyone:
+	Replying to "Jee, Thanks for your..."
+	
+	Thanks.May be i missed.
+10:10:27 From sarah to Everyone:
+	b
+10:10:27 From Nayyer to Everyone:
+	A
+10:10:29 From Abubakar Khan to Everyone:
+	A
+10:10:30 From Arshad Shaikh to Everyone:
+	A
+10:10:31 From Sajid to Everyone:
+	C
+10:10:31 From awnaam to Everyone:
+	A
+10:10:31 From Hashir to Everyone:
+	A
+10:10:32 From ayesha ather to Everyone:
+	a
+10:10:33 From g arif to Everyone:
+	a
+10:10:34 From Reaaz to Everyone:
+	A
+10:10:35 From ndella to Everyone:
+	a
+10:10:37 From Fahim Ahmed to Everyone:
+	A or B
+10:10:37 From Hadiya Ansari to Everyone:
+	c
+10:10:38 From Parsa to Everyone:
+	A
+10:10:39 From Abrar Khan to Everyone:
+	a
+10:10:39 From Shirin to Everyone:
+	A
+10:10:40 From Shahid Syed to Everyone:
+	A
+10:10:40 From Sabeeh Siddiqui to Everyone:
+	A
+10:10:40 From Monzer "Mike" to Everyone:
+	a
+10:10:41 From Razi to Everyone:
+	b
+10:10:41 From faraz khan to Everyone:
+	B
+10:10:41 From Idrees to Everyone:
+	1
+10:10:41 From Sajid to Everyone:
+	C
+10:10:42 From Boubacar Housseini to Everyone:
+	b
+10:10:43 From Rawan to Everyone:
+	A
+10:10:44 From faizatabassum to Everyone:
+	a
+10:10:45 From wquraishi to Everyone:
+	A
+10:10:45 From Idrees to Everyone:
+	a
+10:10:46 From codebase to Everyone:
+	a
+10:10:46 From kaame to Everyone:
+	a
+10:10:46 From 41864-Mohammad Ziaul Karim to Everyone:
+	A
+10:10:47 From nada to Everyone:
+	A
+10:10:47 From Fazil to Everyone:
+	A
+10:10:52 From HASNAIN to Everyone:
+	a
+10:10:52 From Hamid to Everyone:
+	A
+10:10:55 From bashar bseiso to Everyone:
+	a
+10:10:55 From MD BIPLOB to Everyone:
+	A
+10:10:56 From kaame to Everyone:
+	A
+10:10:56 From Abazer Ali to Everyone:
+	D
+10:11:01 From Barzan Ahmed to Everyone:
+	D
+10:11:01 From Sohaib Mirza to Everyone:
+	a
+10:11:02 From Purva Memon to Everyone:
+	c
+10:11:03 From nana to Everyone:
+	A
+10:11:05 From suhaib to Everyone:
+	A
+10:11:05 From Rubeena to Everyone:
+	A
+10:11:06 From said to Everyone:
+	A
+10:11:19 From Fayyaz Ahmed to Everyone:
+	C
+10:11:29 From Umair Iqbal to Everyone:
+	C
+10:11:34 From ndella to Everyone:
+	dd
+10:12:12 From MD BIPLOB to Everyone:
+	Why is it a risk?
+10:12:17 From Fahim Ahmed to Everyone:
+	D
+10:12:19 From Razi to Everyone:
+	b
+10:12:19 From Sajid to Everyone:
+	A
+10:12:22 From Boubacar Housseini to Everyone:
+	A
+10:12:22 From faraz khan to Everyone:
+	A
+10:12:22 From Razi to Everyone:
+	b
+10:12:22 From Hashir to Everyone:
+	D
+10:12:23 From ayesha ather to Everyone:
+	d
+10:12:24 From Hamid to Everyone:
+	d
+10:12:24 From Umair Iqbal to Everyone:
+	D
+10:12:24 From faraz khan to Everyone:
+	A
+10:12:25 From kaame to Everyone:
+	A
+10:12:25 From awnaam to Everyone:
+	D
+10:12:28 From Nayyer to Everyone:
+	A
+10:12:28 From faizatabassum to Everyone:
+	a
+10:12:28 From Parsa to Everyone:
+	D
+10:12:28 From Syed Nabeel to Everyone:
+	A
+10:12:29 From suhaib to Everyone:
+	C
+10:12:29 From Purva Memon to Everyone:
+	d
+10:12:30 From Abubakar Khan to Everyone:
+	D
+10:12:30 From Barzan Ahmed to Everyone:
+	A
+10:12:31 From Fayyaz Ahmed to Everyone:
+	A
+10:12:31 From g arif to Everyone:
+	a
+10:12:32 From nana to Everyone:
+	D
+10:12:33 From ndella to Everyone:
+	c
+10:12:33 From Bakhtear to Everyone:
+	d
+10:12:33 From alchweki to Everyone:
+	d
+10:12:35 From Umair Iqbal to Everyone:
+	A
+10:12:36 From Ovais Mohammad to Everyone:
+	A
+10:12:36 From Parsa to Everyone:
+	D
+10:12:36 From Sherinay to Everyone:
+	D
+10:12:36 From 41864-Mohammad Ziaul Karim to Everyone:
+	B
+10:12:37 From Shaikh Rasool to Everyone:
+	D
+10:12:38 From Shamim Mazumder to Everyone:
+	D
+10:12:39 From Rubeena to Everyone:
+	A
+10:12:39 From Sajid to Everyone:
+	A
+10:12:40 From Hadiya Ansari to Everyone:
+	c
+10:12:41 From Umar Rasul to Everyone:
+	D
+10:12:41 From Monzer "Mike" to Everyone:
+	B
+10:12:43 From nana to Everyone:
+	B
+10:12:43 From bashar bseiso to Everyone:
+	c
+10:12:45 From Rawan to Everyone:
+	D
+10:12:46 From Shahid Syed to Everyone:
+	c
+10:12:47 From codebase to Everyone:
+	c
+10:12:51 From Abazer Ali to Everyone:
+	C
+10:12:56 From Amer Nazimuddin to Everyone:
+	D
+10:12:57 From Jenath to Everyone:
+	c
+10:12:58 From Razi to Everyone:
+	b
+10:13:02 From Arshad Shaikh to Everyone:
+	B tbh
+10:13:04 From wquraishi to Everyone:
+	A
+10:13:05 From Abrar Khan to Everyone:
+	a
+10:13:07 From Umar Rasul to Everyone:
+	b
+10:13:08 From Sohaib Mirza to Everyone:
+	d
+10:13:28 From said to Everyone:
+	C
+10:14:32 From Sherinay to Everyone:
+	A
+10:14:33 From Sajid to Everyone:
+	D
+10:14:41 From Monzer "Mike" to Everyone:
+	D
+10:14:42 From Fayyaz Ahmed to Everyone:
+	D
+10:14:43 From Rasool Pasha to Everyone:
+	D
+10:14:44 From Parsa to Everyone:
+	D
+10:14:44 From suhaib to Everyone:
+	D
+10:14:44 From codebase to Everyone:
+	D
+10:14:45 From ndella to Everyone:
+	c
+10:14:46 From Abubakar Khan to Everyone:
+	D
+10:14:47 From faizatabassum to Everyone:
+	a
+10:14:47 From Umair Iqbal to Everyone:
+	D
+10:14:48 From Ranaa R. to Everyone:
+	D
+10:14:48 From Syed Nabeel to Everyone:
+	D
+10:14:48 From Noman Syed to Everyone:
+	A
+10:14:49 From Arshad Shaikh to Everyone:
+	A
+10:14:49 From Abrar Khan to Everyone:
+	a
+10:14:52 From Shaikh Rasool to Everyone:
+	BC
+10:14:52 From Barzan Ahmed to Everyone:
+	A
+10:14:53 From 41864-Mohammad Ziaul Karim to Everyone:
+	A
+10:14:53 From M Ali to Everyone:
+	A
+10:14:54 From said to Everyone:
+	C & A
+10:14:54 From Umar Rasul to Everyone:
+	D
+10:14:54 From ayesha ather to Everyone:
+	A
+10:14:55 From MD BIPLOB to Everyone:
+	D
+10:14:56 From suhaib to Everyone:
+	D
+10:14:56 From Amer Nazimuddin to Everyone:
+	D
+10:14:57 From g arif to Everyone:
+	c
+10:14:58 From Azhar to Everyone:
+	D
+10:14:58 From Abazer Ali to Everyone:
+	A
+10:14:59 From Nayyer to Everyone:
+	D
+10:15:00 From bashar bseiso to Everyone:
+	a
+10:15:01 From TLEDINSTDMPDC994MF3V to Everyone:
+	A
+10:15:01 From sarah to Everyone:
+	c
+10:15:01 From Ovais Mohammad to Everyone:
+	A
+10:15:01 From Razi to Everyone:
+	A
+10:15:06 From Rubeena to Everyone:
+	C
+10:15:07 From Boubacar Housseini to Everyone:
+	B
+10:15:09 From faraz khan to Everyone:
+	D
+10:15:09 From Jenath to Everyone:
+	b
+10:15:12 From Mohammed Hameed to Everyone:
+	D
+10:15:12 From Shahid Syed to Everyone:
+	D
+10:15:13 From wquraishi to Everyone:
+	A
+10:15:13 From Hamid to Everyone:
+	d
+10:15:14 From Razi to Everyone:
+	A
+10:15:14 From Ranaa R. to Everyone:
+	D
+10:15:15 From senthilkumar vaithilingam to Everyone:
+	b
+10:15:15 From Purva Memon to Everyone:
+	a
+10:15:15 From Jenath to Everyone:
+	d
+10:15:16 From HASNAIN to Everyone:
+	a
+10:15:16 From Fahim Ahmed to Everyone:
+	A or D
+10:15:18 From Sohaib Mirza to Everyone:
+	b
+10:15:19 From Fahim Ahmed to Everyone:
+	D
+10:15:28 From Hadiya Ansari to Everyone:
+	c
+10:15:31 From syeda to Everyone:
+	A
+10:15:43 From Ahmed to Everyone:
+	c. D
+10:15:49 From Razi to Everyone:
+	A
+10:16:07 From Ahmed to Everyone:
+	C or D
+10:16:40 From Barzan Ahmed to Everyone:
+	Unknown Unknowns
+10:16:46 From Sherinay to Everyone:
+	it is never 100% risk free
+10:17:41 From Fahim Ahmed to Everyone:
+	Isn't answer D kind of the same thing as A? We're mitigating, but not eliminating
+10:18:06 From Amer Nazimuddin to Everyone:
+	Replying to "Isn't answer D kind …"
+	Yup I was between A and D but choose D in the end
+10:18:49 From Arshad Shaikh to Everyone:
+	B
+10:18:52 From Umair Iqbal to Everyone:
+	B
+10:18:53 From Sajid to Everyone:
+	B
+10:18:58 From said to Everyone:
+	B
+10:18:58 From 41864-Mohammad Ziaul Karim to Everyone:
+	B
+10:18:59 From Noman Syed to Everyone:
+	B
+10:18:59 From g arif to Everyone:
+	b
+10:18:59 From Abubakar Khan to Everyone:
+	B
+10:19:01 From M Ali to Everyone:
+	B
+10:19:03 From Idrees to Everyone:
+	b
+10:19:05 From Nayyer to Everyone:
+	B
+10:19:06 From Fayyaz Ahmed to Everyone:
+	B
+10:19:07 From ndella to Everyone:
+	A
+10:19:07 From Hamid to Everyone:
+	B
+10:19:08 From Umar Rasul to Everyone:
+	B
+10:19:08 From Shahid Syed to Everyone:
+	A
+10:19:09 From Ranaa R. to Everyone:
+	B
+10:19:09 From Sherinay to Everyone:
+	B
+10:19:10 From Rasool Pasha to Everyone:
+	B
+10:19:12 From Fahim Ahmed to Everyone:
+	B
+10:19:12 From Rubeena to Everyone:
+	A
+10:19:13 From codebase to Everyone:
+	A
+10:19:14 From MD BIPLOB to Everyone:
+	B
+10:19:14 From Reaaz to Everyone:
+	B
+10:19:15 From sarah to Everyone:
+	a
+10:19:15 From Parsa to Everyone:
+	B
+10:19:17 From Syed Nabeel to Everyone:
+	B
+10:19:20 From Barzan Ahmed to Everyone:
+	B
+10:19:22 From kaame to Everyone:
+	A
+10:19:23 From Abazer Ali to Everyone:
+	B
+10:19:24 From syeda to Everyone:
+	B
+10:19:27 From HASNAIN to Everyone:
+	B
+10:19:27 From Hashir to Everyone:
+	C
+10:19:28 From Monzer "Mike" to Everyone:
+	B
+10:19:30 From Razi to Everyone:
+	b
+10:19:30 From bashar bseiso to Everyone:
+	b
+10:19:31 From suhaib to Everyone:
+	C
+10:19:34 From Abrar Khan to Everyone:
+	b
+10:19:34 From Rawan to Everyone:
+	B
+10:19:35 From Bakhtear to Everyone:
+	b
+10:19:36 From TLEDINSTDMPDC994MF3V to Everyone:
+	B
+10:19:36 From Razi to Everyone:
+	B
+10:19:37 From Rubeena to Everyone:
+	B
+10:19:38 From Sajid to Everyone:
+	A
+10:19:40 From Mohammed Hameed to Everyone:
+	B
+10:19:42 From Hadiya Ansari to Everyone:
+	b
+10:19:43 From Hassan to Everyone:
+	A
+10:19:46 From Azhar to Everyone:
+	C
+10:19:48 From Boubacar Housseini to Everyone:
+	C
+10:19:50 From Razi to Everyone:
+	B
+10:19:50 From Sohaib Mirza to Everyone:
+	c
+10:19:51 From Jenath to Everyone:
+	a
+10:19:53 From alchweki to Everyone:
+	a
+10:19:56 From faraz khan to Everyone:
+	A
+10:20:05 From senthilkumar vaithilingam to Everyone:
+	b
+10:20:06 From Ahmed to Everyone:
+	B
+10:20:09 From ayesha ather to Everyone:
+	C
+10:20:12 From Razi to Everyone:
+	B
+10:22:13 From Razi to Everyone:
+	laptop example how about data in laptop is much more value than laptop cost
+10:22:22 From Hashir to Everyone:
+	Reacted to "laptop example how a..." with 👍
+10:22:44 From Sherinay to Everyone:
+	data protection might have different price
+10:23:14 From Nayyer to Everyone:
+	D
+10:23:15 From Sajid to Everyone:
+	D
+10:23:15 From Umar Rasul to Everyone:
+	Replying to "laptop example how a..."
+	
+	Data is an intangible asset
+10:23:15 From Sherinay to Everyone:
+	D
+10:23:16 From Fayyaz Ahmed to Everyone:
+	D
+10:23:16 From Razi to Everyone:
+	D
+10:23:18 From Hassan to Everyone:
+	D'
+10:23:18 From Reaaz to Everyone:
+	d
+10:23:20 From Razi to Everyone:
+	D
+10:23:21 From Razi to Everyone:
+	D
+10:23:21 From Parsa to Everyone:
+	D
+10:23:21 From faizatabassum to Everyone:
+	d
+10:23:21 From Syed Nabeel to Everyone:
+	D
+10:23:21 From Rasool Pasha to Everyone:
+	D
+10:23:22 From Fahim Ahmed to Everyone:
+	D
+10:23:22 From Idrees to Everyone:
+	D
+10:23:23 From ayesha ather to Everyone:
+	D
+10:23:23 From Monzer "Mike" to Everyone:
+	D
+10:23:23 From syeda to Everyone:
+	D
+10:23:24 From kaame to Everyone:
+	D
+10:23:25 From 41864-Mohammad Ziaul Karim to Everyone:
+	D
+10:23:25 From Jenath to Everyone:
+	d
+10:23:25 From Noman Syed to Everyone:
+	D
+10:23:27 From Umar Rasul to Everyone:
+	D
+10:23:27 From Umair Iqbal to Everyone:
+	D
+10:23:28 From g arif to Everyone:
+	d
+10:23:29 From faraz khan to Everyone:
+	d
+10:23:29 From MD BIPLOB to Everyone:
+	d
+10:23:31 From Shahid Syed to Everyone:
+	D
+10:23:31 From Abazer Ali to Everyone:
+	D
+10:23:32 From Sohaib Mirza to Everyone:
+	d
+10:23:32 From Rawan to Everyone:
+	D
+10:23:32 From Azhar to Everyone:
+	D
+10:23:33 From codebase to Everyone:
+	c
+10:23:33 From Rubeena to Everyone:
+	D
+10:23:36 From Boubacar Housseini to Everyone:
+	D
+10:23:37 From Syed to Everyone:
+	D
+10:23:38 From suhaib to Everyone:
+	D
+10:23:38 From Shamim Mazumder to Everyone:
+	D
+10:23:40 From Ovais Mohammad to Everyone:
+	D
+10:23:40 From said to Everyone:
+	D
+10:23:40 From Barzan Ahmed to Everyone:
+	D
+10:23:41 From Hadiya Ansari to Everyone:
+	d
+10:23:41 From bashar bseiso to Everyone:
+	d
+10:23:42 From Amer Nazimuddin to Everyone:
+	D
+10:23:43 From wquraishi to Everyone:
+	D
+10:23:46 From Abrar Khan to Everyone:
+	d
+10:23:50 From said to Everyone:
+	D
+10:23:56 From Ranaa R. to Everyone:
+	D
+10:24:01 From senthilkumar vaithilingam to Everyone:
+	D
+10:24:03 From Bakhtear to Everyone:
+	d
+10:24:05 From nada to Everyone:
+	D
+10:24:13 From Abubakar Khan to Everyone:
+	D
+10:25:22 From Abazer Ali to Everyone:
+	How to improve employee weaknesses?
+10:25:36 From faraz khan to Everyone:
+	Provide training
+10:25:41 From Sherinay to Everyone:
+	company compliance training
+10:25:59 From Sherinay to Everyone:
+	C
+10:26:00 From Abubakar Khan to Everyone:
+	C
+10:26:02 From Hassan to Everyone:
+	C
+10:26:03 From Sohaib Mirza to Everyone:
+	c
+10:26:04 From Hadiya Ansari to Everyone:
+	c
+10:26:04 From Idrees to Everyone:
+	d
+10:26:05 From g arif to Everyone:
+	c
+10:26:05 From alchweki to Everyone:
+	c
+10:26:06 From Ahmed to Everyone:
+	C
+10:26:07 From Sajid to Everyone:
+	C
+10:26:07 From Syed Nabeel to Everyone:
+	C
+10:26:07 From Shahid Syed to Everyone:
+	C
+10:26:08 From Rawan to Everyone:
+	C
+10:26:08 From Noman Syed to Everyone:
+	C
+10:26:08 From Fahim Ahmed to Everyone:
+	C
+10:26:09 From Barzan Ahmed to Everyone:
+	C
+10:26:09 From Fayyaz Ahmed to Everyone:
+	C
+10:26:09 From Boubacar Housseini to Everyone:
+	C
+10:26:09 From syeda to Everyone:
+	C
+10:26:09 From Fasih Sheikh to Everyone:
+	C
+10:26:09 From 41864-Mohammad Ziaul Karim to Everyone:
+	C
+10:26:09 From Azhar to Everyone:
+	C
+10:26:09 From sarah to Everyone:
+	c
+10:26:10 From suhaib to Everyone:
+	C
+10:26:10 From codebase to Everyone:
+	D
+10:26:10 From faizatabassum to Everyone:
+	c
+10:26:10 From suhaib to Everyone:
+	C
+10:26:11 From ayesha ather to Everyone:
+	C
+10:26:11 From Shaikh Rasool to Everyone:
+	C
+10:26:11 From Syed to Everyone:
+	C
+10:26:12 From senthilkumar vaithilingam to Everyone:
+	c
+10:26:12 From Ovais Mohammad to Everyone:
+	C
+10:26:12 From Rasool Pasha to Everyone:
+	C
+10:26:15 From Umar Rasul to Everyone:
+	C
+10:26:15 From HASNAIN to Everyone:
+	D
+10:26:15 From Abrar Khan to Everyone:
+	c
+10:26:15 From Abazer Ali to Everyone:
+	C
+10:26:16 From ndella to Everyone:
+	c
+10:26:16 From Nayyer to Everyone:
+	C
+10:26:16 From Parsa to Everyone:
+	D
+10:26:16 From Umair Iqbal to Everyone:
+	C
+10:26:16 From Ranaa R. to Everyone:
+	C
+10:26:17 From Amer Nazimuddin to Everyone:
+	C
+10:26:18 From nada to Everyone:
+	C
+10:26:18 From sarah to Everyone:
+	c
+10:26:19 From Rubeena to Everyone:
+	C
+10:26:25 From bashar bseiso to Everyone:
+	c
+10:26:26 From said to Everyone:
+	A
+10:27:10 From Ranaa R. to Everyone:
+	Replying to "How to improve emplo..."
+	
+	training and, assigning roles (access control, split knowledge
+10:32:02 From HASNAIN to Everyone:
+	WHAT IS NDA
+10:32:17 From Ranaa R. to Everyone:
+	non discloser agreement
+10:32:22 From Monzer "Mike" to Everyone:
+	none disclosure agreement
+10:32:44 From Ranaa R. to Everyone:
+	Replying to "non discloser agreem..."
+	
+	*disclosure
+10:35:30 From HASNAIN to Everyone:
+	THANKS
+10:36:14 From Abubakar Khan to Everyone:
+	did anyone of you receive a recording of the presentation?
+10:36:41 From Doreen Motsi to Everyone:
+	Yes
+10:37:42 From Sherinay to Everyone:
+	Replying to "did anyone of you re..."
+	
+	not met
+10:37:46 From Sherinay to Everyone:
+	Replying to "did anyone of you re..."
+	
+	me*
+10:37:56 From Abubakar Khan to Everyone:
+	Reacted to "not met" with 👍
+10:37:57 From Nayyer to Everyone:
+	As-Salamu Alaykum,	Today (2/10), class recording now available.		Topic: EPIC - Cyber Security Certification (CISSP) Bootcamp	Date: Feb 10, 2024		Recording url: https://us06web.zoom.us/rec/share/wxqnZ4gaNTwjnZlZMyIDN3_M6VInT9mLW6nB44kJOm58B1jTGqQoquKJ9iTUn3c.9gPv-F2jOu8wNx77	Passcode: W8bx9#J?
+10:38:00 From said to Everyone:
+	NOT ME
+10:40:22 From Parsa to Everyone:
+	NDA
+10:40:38 From Sherinay to Everyone:
+	Reacted to "NDA" with 🎉
+10:41:34 From Abubakar Khan to Everyone:
+	Reacted to "As-Salamu Alaykum,
+	T..." with ❤️
+10:41:43 From Fahim Ahmed to Everyone:
+	Reacted to "As-Salamu Alaykum,
+	T..." with ❤️
+10:41:56 From Moosa Toor to Everyone:
+	Reacted to "As-Salamu Alaykum,
+	T..." with ❤️
+10:42:17 From Abubakar Khan to Everyone:
+	Replying to "As-Salamu Alaykum,
+	T..."
+	
+	Thank you very much.
+10:42:18 From Abubakar Khan to Everyone:
+	Removed a ❤️ reaction from "As-Salamu Alaykum,
+	T..."
+10:42:19 From Abubakar Khan to Everyone:
+	Reacted to "As-Salamu Alaykum,
+	T..." with ❤️
+10:45:42 From Rawan to Everyone:
+	Reacted to As-Salamu Alaykum,
+	T... with "❤️"
+10:48:28 From Kevin to Everyone:
+	Replying to "As-Salamu Alaykum,
+	T..."
+	
+	Thank you
+10:50:57 From Idrees Abdul Raheem to Everyone:
+	Could you please go over again on OECD?
+10:53:40 From Sherinay to Everyone:
+	BANK
+10:56:23 From Amer Nazimuddin to Everyone:
+	If processor is responsible, aren’t they liable also?
+11:01:49 From Muhammad Azad to Everyone:
+	short break -  see u at 11.11am CST
+11:01:55 From Ranaa R. to Everyone:
+	Reacted to "short break -  see u..." with 👍
+11:06:58 From MD BIPLOB to Everyone:
+	Anyone from Wylie/Murphy area wants to join a study group, please pm me
+11:11:36 From ayesha ather to Everyone:
+	Replying to "Anyone from Wylie/Mu..."
+	
+	wylie
+11:11:36 From Monzer "Mike" to Everyone:
+	yes
+11:11:38 From wquraishi to MD BIPLOB(direct message):
+	Yes me
+11:11:40 From faizatabassum to Everyone:
+	Yes ...aoa
+11:11:41 From Ranaa R. to Everyone:
+	yes
+11:11:56 From wquraishi to MD BIPLOB(direct message):
+	6824334036 Wajahath
+11:13:02 From MD BIPLOB to Everyone:
+	Replying to "Anyone from Wylie/Mu..."
+	
+	Please PM me your phone numbers
+11:13:15 From MD BIPLOB to Everyone:
+	Replying to "Anyone from Wylie/Mu..."
+	
+	I will add you to the group
+11:14:01 From Barzan Ahmed to Everyone:
+	what about a WSIP and SOP, where do they fall?
+11:14:09 From MD BIPLOB to wquraishi(direct message):
+	Replying to "Yes me"
+	
+	PM me your phone number
+11:14:15 From kaame to Everyone:
+	8174957065
+11:14:17 From wquraishi to MD BIPLOB(direct message):
+	I sent , 682 433 4036
+11:14:58 From MD BIPLOB to wquraishi(direct message):
+	Reacted to "I sent , 682 433 403..." with 👍
+11:15:02 From MD BIPLOB to wquraishi(direct message):
+	Reacted to "6824334036 Wajahath" with 👍
+11:15:31 From Barzan Ahmed to Everyone:
+	Replying to "Anyone from Wylie/Mu..."
+	
+	Plano - 603-858-1676
+11:17:00 From sarah to Everyone:
+	Plano: 469-441-9532
+11:17:53 From MD BIPLOB to Everyone:
+	Reacted to "8174957065" with 👍
+11:18:23 From MD BIPLOB to Everyone:
+	Reacted to "Plano - 603-858-1676" with 👍
+11:18:44 From MD BIPLOB to Everyone:
+	Reacted to "Plano: 469-441-9532" with 👍
+11:24:02 From Fasih Sheikh to Everyone:
+	Fasih - Plano	1.779.435.2006
+11:26:14 From nana to Everyone:
+	im in dfw, is this an in person study group?
+11:26:32 From Rawan to Everyone:
+	Replying to "Anyone from Wylie/Mu..." 
+	
+	 Royse City but inter...
+11:27:17 From kaame to Everyone:
+	I live in DFW area interested
+11:27:38 From MD BIPLOB to Everyone:
+	Replying to "im in dfw, is this a..."
+	
+	No
+11:28:02 From MD BIPLOB to Everyone:
+	Reacted to "Royse City but inter..." with 👍
+11:28:26 From Fayyaz Ahmed to Everyone:
+	945 268 2595
+11:28:34 From MD BIPLOB to Everyone:
+	Replying to "I live in DFW area i..."
+	
+	I noted your phone number already
+11:29:07 From Fayyaz Ahmed to Everyone:
+	Replying to "945 268 2595"
+	
+	Allen
+11:29:09 From MD BIPLOB to Everyone:
+	Reacted to "945 268 2595" with 👍
+11:29:13 From nana to Everyone:
+	interested insha allah
+11:31:47 From Abubakar Khan to Everyone:
+	me too. But I live in Frisco
+11:35:37 From Idrees Abdul Raheem to Everyone:
+	Difference between MTD and RTO please?
+11:36:10 From wquraishi to Everyone:
+	What is the core difference between RTO and MTD , they someway mean the same ?
+11:36:43 From Sherinay to Everyone:
+	MTD = max point. RTO = least point
+11:36:45 From Sherinay to Everyone:
+	I think
+11:37:35 From Sherinay to Everyone:
+	MTD time > RTO time
+11:37:54 From Monzer "Mike" to Everyone:
+	MTD=maximum Tolerable Downtime
+11:39:02 From Barzan Ahmed to Everyone:
+	MTD is about the maximum allowable downtime before the business suffers significant and possibly irreversible damage. RTO is about the specific target time within which systems and functions must be restored after an outage.
+11:39:32 From Shamim Mazumder to Everyone:
+	IHMO, it sounds like Fried Chicken and Chicken Fry!
+11:39:39 From Barzan Ahmed to Everyone:
+	Reacted to "IHMO, it sounds like..." with 😆
+11:39:41 From Abubakar Khan to Everyone:
+	Reacted to "IHMO, it sounds like..." with 😆
+11:39:50 From Sherinay to Everyone:
+	Reacted to "IHMO, it sounds like..." with 😆
+11:39:54 From Abubakar Khan to Everyone:
+	Reacted to "MTD is about the max..." with 👍
+11:40:01 From Shamim Mazumder to Everyone:
+	Reacted to "IHMO, it sounds like..." with 😆
+11:40:02 From Shamim Mazumder to Everyone:
+	Removed a 😆 reaction from "IHMO, it sounds like..."
+11:40:51 From Shamim Mazumder to Everyone:
+	Reacted to "IHMO, it sounds like..." with 😆
+11:40:53 From Shamim Mazumder to Everyone:
+	Removed a 😆 reaction from "IHMO, it sounds like..."
+11:41:24 From ayesha ather to Everyone:
+	all these for data backup situation or any other
+11:42:00 From Umair Iqbal to Everyone:
+	I’m from Canada can I join a study group?
+11:42:06 From Abazer Ali to Everyone:
+	MTD - RTO = WRT ?
+11:42:07 From Sherinay to Everyone:
+	no
+11:42:09 From Nayyer to Everyone:
+	no
+11:42:09 From faizatabassum to Everyone:
+	no
+11:42:12 From Amer Nazimuddin 🇵🇸 to Everyone:
+	No
+11:42:12 From Abrar Khan to Everyone:
+	no
+11:42:12 From Barzan Ahmed to Everyone:
+	No
+11:42:13 From sarah to Everyone:
+	no
+11:42:13 From Fasih Sheikh to Everyone:
+	no
+11:42:14 From senthilkumar vaithilingam to Everyone:
+	no
+11:42:14 From Umar Rasul to Everyone:
+	no
+11:42:14 From 41864-Mohammad Ziaul Karim to Everyone:
+	no
+11:42:14 From Shaikh Rasool to Everyone:
+	no
+11:42:14 From Hamza Naser to Everyone:
+	No
+11:42:15 From Sajid to Everyone:
+	no
+11:42:15 From g arif to Everyone:
+	no
+11:42:15 From Ranaa R. to Everyone:
+	NO
+11:42:16 From Rubeena to Everyone:
+	No
+11:42:16 From suhaib to Everyone:
+	no
+11:42:16 From Fahim Ahmed to Everyone:
+	no
+11:42:16 From Shahid Syed to Everyone:
+	Only if we minus WRT
+11:42:16 From codebase to Everyone:
+	no
+11:42:17 From Doreen Motsi to Everyone:
+	No
+11:42:17 From Fayyaz Ahmed to Everyone:
+	no
+11:42:17 From faraz khan to Everyone:
+	Nope
+11:42:19 From Boubacar Housseini to Everyone:
+	No
+11:42:23 From syeda to Everyone:
+	No
+11:42:23 From Shamim Mazumder to Everyone:
+	No
+11:42:33 From Zaid Hamid to Everyone:
+	Reacted to "MTD is about the max…" with 👍
+11:42:57 From Shamim Mazumder to Everyone:
+	2 hrs
+11:42:58 From Monzer "Mike" to Everyone:
+	2
+11:42:59 From Alieu Dem to Everyone:
+	2hrs
+11:43:02 From Ranaa R. to Everyone:
+	2
+11:43:02 From codebase to Everyone:
+	2
+11:43:02 From Shahid Syed to Everyone:
+	3
+11:43:03 From Fayyaz Ahmed to Everyone:
+	1 HR
+11:43:03 From 41864-Mohammad Ziaul Karim to Everyone:
+	2h
+11:43:04 From suhaib to Everyone:
+	1
+11:43:04 From Hamza Naser to Everyone:
+	2
+11:43:04 From Ahmed to Everyone:
+	2
+11:43:04 From MD BIPLOB to Everyone:
+	1 hr
+11:43:05 From Umar Rasul to Everyone:
+	2
+11:43:06 From Nayyer to Everyone:
+	1
+11:43:06 From Parsa to Everyone:
+	DEPENDS
+11:43:06 From Shaikh Rasool to Everyone:
+	2
+11:43:07 From Fasih Sheikh to Everyone:
+	1 hr
+11:43:07 From Rubeena to Everyone:
+	2hours
+11:43:08 From Sherinay to Everyone:
+	RTO that is less then MTD
+11:43:08 From faizatabassum to Everyone:
+	1 hr
+11:43:09 From sarah to Everyone:
+	1 hr
+11:43:09 From senthilkumar vaithilingam to Everyone:
+	2 hrs
+11:43:10 From Boubacar Housseini to Everyone:
+	1
+11:43:10 From g arif to Everyone:
+	1
+11:43:10 From HASNAIN to Everyone:
+	2
+11:43:10 From syeda to Everyone:
+	2
+11:43:11 From Hadiya Ansari to Everyone:
+	1 hr
+11:43:13 From faraz khan to Everyone:
+	1 hr - the soonest
+11:43:13 From ayesha ather to Everyone:
+	2hrs
+11:43:14 From Parsa to Everyone:
+	depends on company
+11:43:15 From nana to Everyone:
+	2
+11:43:17 From Faisal to Everyone:
+	it depends
+11:43:17 From Barzan Ahmed to Everyone:
+	Depends on the bussniess
+11:43:17 From Syed A to Everyone:
+	1 hour
+11:43:18 From Umair Iqbal to Everyone:
+	lowest
+11:43:18 From Amer Nazimuddin 🇵🇸 to Everyone:
+	Depends on priority
+11:43:19 From Umair Iqbal to Everyone:
+	1
+11:43:22 From Sherinay to Everyone:
+	RTO that is less or equal to WRT
+11:43:22 From M Ali to Everyone:
+	Depends on application critical level
+11:43:23 From wquraishi to Everyone:
+	1
+11:43:26 From Syed A to Everyone:
+	Less the better
+11:43:27 From nana to Everyone:
+	1
+11:43:45 From Barzan Ahmed to Everyone:
+	the less the better so 1
+11:43:51 From Abubakar Khan to Everyone:
+	Reacted to "the less the better ..." with 👏
+11:43:57 From Abubakar Khan to Everyone:
+	Reacted to "Less the better" with 👏
+11:44:05 From Syed A to Everyone:
+	Reacted to Less the better with "👏"
+11:44:07 From Syed A to Everyone:
+	Removed a 👏 reaction from "Less the better"
+11:45:05 From Sherinay to Everyone:
+	less
+11:45:06 From faizatabassum to Everyone:
+	less
+11:45:10 From Ranaa R. to Everyone:
+	less
+11:45:10 From Hadiya Ansari to Everyone:
+	less
+11:45:10 From g arif to Everyone:
+	less
+11:45:11 From Nayyer to Everyone:
+	less
+11:45:12 From HASNAIN to Everyone:
+	LESS
+11:45:12 From Parsa to Everyone:
+	less
+11:45:12 From Boubacar Housseini to Everyone:
+	Less
+11:45:12 From Umar Rasul to Everyone:
+	less
+11:45:12 From Fasih Sheikh to Everyone:
+	less
+11:45:13 From sarah to Everyone:
+	less
+11:45:14 From Shawn Ahmed to Everyone:
+	high
+11:45:14 From nana to Everyone:
+	less
+11:45:14 From Mohammad to Everyone:
+	High
+11:45:15 From Shahid Syed to Everyone:
+	less
+11:45:15 From Arshad Shaikh to Everyone:
+	high
+11:45:15 From Shamim Mazumder to Everyone:
+	High
+11:45:16 From Fayyaz Ahmed to Everyone:
+	less
+11:45:16 From 41864-Mohammad Ziaul Karim to Everyone:
+	less
+11:45:17 From Doreen Motsi to Everyone:
+	Less
+11:45:19 From Abrar Khan to Everyone:
+	less
+11:45:20 From faraz khan to Everyone:
+	less ofcourse
+11:45:21 From Umar Rasul to Everyone:
+	high
+11:45:22 From Mohammad to Everyone:
+	High
+11:45:22 From senthilkumar vaithilingam to Everyone:
+	less
+11:45:23 From suhaib to Everyone:
+	high
+11:45:24 From Hadiya Ansari to Everyone:
+	less
+11:45:25 From Rubeena to Everyone:
+	Less
+11:45:26 From Ranaa R. to Everyone:
+	HIGH
+11:45:27 From faizatabassum to Everyone:
+	More
+11:45:31 From ndella to Everyone:
+	high
+11:45:34 From Monzer "Mike" to Everyone:
+	high
+11:45:36 From codebase to Everyone:
+	high
+11:45:39 From Arshad Shaikh to Everyone:
+	higher time between failures = less failures
+11:45:47 From Abrar Khan to Everyone:
+	high
+11:45:49 From Syed A to Everyone:
+	Reacted to higher time between ... with "👍"
+11:45:52 From Hashir to Everyone:
+	Reacted to "higher time between ..." with 👍
+11:45:55 From faizatabassum to Everyone:
+	Its between failure so more time is better
+11:45:59 From suhaib to Everyone:
+	Reacted to "higher time between ..." with 👍
+11:46:02 From Faisal to Everyone:
+	high
+11:46:05 From Parsa to Everyone:
+	high
+11:46:19 From Barzan Ahmed to Everyone:
+	MTD is about how long you can afford to be stopped.	RTO is your goal for getting things running again after a stop.	MTBF tells you how often something might break or fail.	MTTR is about how quickly you can fix something when it does break.	WRT is about how long it will take to catch up on the backlog of work after you fix the problem.
+11:46:27 From Abubakar Khan to Everyone:
+	Reacted to "MTD is about how lon..." with ❤️
+11:46:35 From Sherinay to Everyone:
+	Reacted to "MTD is about how lon..." with 👏🏻
+11:46:40 From suhaib to Everyone:
+	Reacted to "MTD is about how lon..." with 👍
+11:46:41 From Doreen Motsi to Everyone:
+	Reacted to "MTD is about how lon..." with ❤️
+11:46:52 From Hasan to Everyone:
+	Reacted to "MTD is about how lon..." with 👍🏿
+11:46:52 From Rubeena to Everyone:
+	Reacted to MTD is about how lon... with "👍"
+11:46:54 From Ranaa R. to Everyone:
+	Reacted to "MTD is about how lon..." with ❤️
+11:47:05 From Hashir to Everyone:
+	Reacted to "MTD is about how lon..." with 👏🏻
+11:47:14 From Amer Nazimuddin 🇵🇸 to Everyone:
+	The slides says higher is better? Confused sorry
+11:47:47 From Shawn Ahmed to Everyone:
+	Were we talking about MTBF?
+11:47:51 From Syed A to Everyone:
+	Yeah, it's mtbf is confusing, if we are taking mean
+11:48:17 From Arshad Shaikh to Everyone:
+	MTBF High is better. Not lower
+11:48:18 From Amer Nazimuddin 🇵🇸 to Everyone:
+	Reacted to "Yeah, it's mtbf is c…" with 👍
+11:48:34 From Arshad Shaikh to Everyone:
+	MTBF = time between failures. lower time between failures, = more failures
+11:49:05 From Syed A to Everyone:
+	A high MTBF can mean fewer problems and costs for your equipment; a lower one could mean more frequent failures and more expenses.
+11:49:43 From Amer Nazimuddin 🇵🇸 to Everyone:
+	Reacted to "MTD is about how lon…" with 👍
+11:50:01 From Syed A to Everyone:
+	Reacted to Yeah, it's mtbf is c... with "👍"
+11:50:02 From Syed A to Everyone:
+	Removed a 👍 reaction from "Yeah, it's mtbf is c..."
+11:51:38 From M Ali to Everyone:
+	Yep, We want more time between failures ( so higher MTBF)  better
+11:51:49 From Syed A to Everyone:
+	High MTBF. Finally, consider a system that only goes down once within 30 days (720 hours) for two hours. Compared to the other scenarios described here, one failure every 30 days can be considered a high MTBF, indicating that the system is highly reliable.
+11:51:50 From wquraishi to Everyone:
+	Reacted to "High MTBF. Finally, ..." with 👍
+11:51:56 From Idrees Abdul Raheem to Everyone:
+	@Muhammad Azad could you please clear on the above, it’s making us confuse
+11:51:57 From wquraishi to Everyone:
+	Reacted to "Yep, We want more ti..." with 👍
+11:52:05 From Amer Nazimuddin 🇵🇸 to Everyone:
+	Reacted to "@Muhammad Azad could…" with 👍
+11:52:28 From Sherinay to Everyone:
+	so many acronyms 😵‍💫🥴
+11:52:42 From bashar bseiso to Everyone:
+	yeeeeees toooo manyyyyy
+11:52:50 From Barzan Ahmed to Everyone:
+	Reacted to "so many acronyms 😵‍..." with 😁
+11:52:52 From Ranaa R. to Everyone:
+	Reacted to "so many acronyms 😵‍..." with 😁
+11:52:56 From Ranaa R. to Everyone:
+	Reacted to "yeeeeees toooo manyy..." with 😂
+11:52:59 From Umar Rasul to Everyone:
+	Reacted to "so many acronyms 😵‍..." with 😁
+11:53:20 From alchweki to Everyone:
+	lost
+11:53:45 From Idrees Abdul Raheem to Everyone:
+	Trademark
+11:53:55 From Fayyaz Ahmed to Everyone:
+	Trademark
+11:53:55 From codebase to Everyone:
+	B
+11:53:56 From Sherinay to Everyone:
+	trademark
+11:53:56 From Nayyer to Everyone:
+	B
+11:53:57 From nana to Everyone:
+	higheBr
+11:53:57 From 41864-Mohammad Ziaul Karim to Everyone:
+	B
+11:53:57 From g arif to Everyone:
+	b
+11:53:58 From Rasool Pasha to Everyone:
+	b
+11:53:58 From Sherinay to Everyone:
+	B
+11:53:58 From Sajid to Everyone:
+	Trademark
+11:53:58 From ACihan to Everyone:
+	b
+11:54:00 From Razi to Everyone:
+	c
+11:54:00 From Hashir to Everyone:
+	B
+11:54:00 From Ranaa R. to Everyone:
+	Trademark
+11:54:01 From sarah to Everyone:
+	B
+11:54:02 From Farru to Everyone:
+	D
+11:54:02 From suhaib to Everyone:
+	B
+11:54:02 From Umar Rasul to Everyone:
+	B
+11:54:03 From Shaikh Rasool to Everyone:
+	B
+11:54:03 From faraz khan to Everyone:
+	B
+11:54:04 From Amer Nazimuddin 🇵🇸 to Everyone:
+	B
+11:54:05 From Nasir Uddin to Everyone:
+	B
+11:54:06 From Noman Syed to Everyone:
+	b
+11:54:06 From Alieu Dem to Everyone:
+	B
+11:54:06 From Barzan Ahmed to Everyone:
+	B
+11:54:07 From Fasih Sheikh to Everyone:
+	B
+11:54:07 From suhaib to Everyone:
+	B
+11:54:09 From Umair Iqbal to Everyone:
+	D
+11:54:09 From syeda to Everyone:
+	b
+11:54:10 From Parsa to Everyone:
+	B
+11:54:11 From Monzer "Mike" to Everyone:
+	a
+11:54:11 From ayesha ather to Everyone:
+	b
+11:54:12 From faizatabassum to Everyone:
+	B
+11:54:12 From Doreen Motsi to Everyone:
+	B
+11:54:13 From Shamim Mazumder to Everyone:
+	B
+11:54:15 From alchweki to Everyone:
+	b
+11:54:16 From Shahid Syed to Everyone:
+	B
+11:54:17 From MD BIPLOB to Everyone:
+	B
+11:54:20 From Najia to Everyone:
+	B
+11:54:20 From Boubacar Housseini to Everyone:
+	Trademark
+11:54:22 From Faisal to Everyone:
+	B
+11:54:23 From Monzer "Mike" to Everyone:
+	b
+11:54:23 From HASNAIN to Everyone:
+	B
+11:54:23 From Fahim Ahmed to Everyone:
+	b
+11:54:23 From Hadiya Ansari to Everyone:
+	trade secret
+11:54:24 From faraz khan to Everyone:
+	B easy one
+11:54:25 From Jibran to Everyone:
+	b
+11:54:26 From Syed A to Everyone:
+	B
+11:54:26 From senthilkumar vaithilingam to Everyone:
+	b
+11:54:27 From Shaikh Rasool to Everyone:
+	D
+11:54:29 From wquraishi to Everyone:
+	b
+11:54:33 From Abazer Ali to Everyone:
+	B
+11:54:34 From said to Everyone:
+	c
+11:54:38 From nada to Everyone:
+	B
+11:54:41 From Syed Nabeel to Everyone:
+	B
+11:54:47 From Rubeena to Everyone:
+	B
+11:54:53 From ndella to Everyone:
+	c
+11:55:01 From Razi to Everyone:
+	b
+11:55:27 From Umair Iqbal to Everyone:
+	B
+11:55:29 From Idrees Abdul Raheem to Everyone:
+	C
+11:55:29 From Fayyaz Ahmed to Everyone:
+	Transfer
+11:55:30 From Sajid to Everyone:
+	B
+11:55:34 From Muhammad Siddiqui to Everyone:
+	transfer
+11:55:34 From MD BIPLOB to Everyone:
+	B
+11:55:34 From wquraishi to Everyone:
+	A
+11:55:37 From senthilkumar vaithilingam to Everyone:
+	a
+11:55:37 From Parsa to Everyone:
+	A
+11:55:39 From 41864-Mohammad Ziaul Karim to Everyone:
+	b
+11:55:39 From Amer Nazimuddin 🇵🇸 to Everyone:
+	a
+11:55:41 From Monzer "Mike" to Everyone:
+	a
+11:55:42 From Razi to Everyone:
+	b
+11:55:43 From Doreen Motsi to Everyone:
+	A
+11:55:43 From wquraishi to Everyone:
+	B
+11:55:43 From Fasih Sheikh to Everyone:
+	B
+11:55:43 From ACihan to Everyone:
+	c
+11:55:43 From Sherinay to Everyone:
+	B
+11:55:44 From Nayyer to Everyone:
+	A
+11:55:44 From ayesha ather to Everyone:
+	b
+11:55:44 From Nasir Uddin to Everyone:
+	A
+11:55:45 From Shawn Ahmed to Everyone:
+	A
+11:55:45 From HASNAIN to Everyone:
+	A
+11:55:45 From faraz khan to Everyone:
+	C
+11:55:45 From said to Everyone:
+	A
+11:55:46 From Abrar Khan to Everyone:
+	a
+11:55:47 From codebase to Everyone:
+	a
+11:55:47 From g arif to Everyone:
+	a
+11:55:48 From nana to Everyone:
+	A
+11:55:49 From Rasool Pasha to Everyone:
+	a
+11:55:49 From Umair Iqbal to Everyone:
+	To transfer rick from outside to other side
+11:55:51 From Ranaa R. to Everyone:
+	A
+11:55:52 From Rubeena to Everyone:
+	A
+11:55:52 From Muhammad Siddiqui to Everyone:
+	B
+11:55:52 From Abazer Ali to Everyone:
+	A
+11:55:52 From Syed Nabeel to Everyone:
+	B
+11:55:52 From faizatabassum to Everyone:
+	a
+11:55:52 From Syed A to Everyone:
+	Liability transfer or delegation
+11:55:53 From Arshad Shaikh to Everyone:
+	B
+11:55:53 From Umar Rasul to Everyone:
+	A
+11:55:55 From faraz khan to Everyone:
+	accepting the risk
+11:55:55 From Syed Nabeel to Everyone:
+	B
+11:55:55 From Shamim Mazumder to Everyone:
+	A
+11:55:56 From Razi to Everyone:
+	b
+11:55:56 From Noman Syed to Everyone:
+	b
+11:55:57 From sarah to Everyone:
+	A
+11:55:57 From ACihan to Everyone:
+	c
+11:55:58 From Parsa to Everyone:
+	B
+11:55:59 From Shawn Ahmed to Everyone:
+	To mitigate the risk
+11:56:00 From Shaikh Rasool to Everyone:
+	A
+11:56:01 From suhaib to Everyone:
+	A
+11:56:01 From Farru to Everyone:
+	A for apple
+11:56:03 From Fahim Ahmed to Everyone:
+	A
+11:56:03 From wquraishi to Everyone:
+	B
+11:56:04 From nada to Everyone:
+	C
+11:56:04 From Boubacar Housseini to Everyone:
+	B
+11:56:08 From Razi to Everyone:
+	b
+11:56:12 From syeda to Everyone:
+	b
+11:56:19 From Parsa to Everyone:
+	Reacted to "A for apple" with 😂
+11:57:16 From Arshad Shaikh to Everyone:
+	D
+11:57:17 From Idrees Abdul Raheem to Everyone:
+	D
+11:57:17 From ACihan to Everyone:
+	d
+11:57:17 From Monzer "Mike" to Everyone:
+	d
+11:57:17 From Hashir to Everyone:
+	d
+11:57:17 From Ranaa R. to Everyone:
+	D
+11:57:18 From Sherinay to Everyone:
+	D
+11:57:19 From ayesha ather to Everyone:
+	d
+11:57:19 From Umar Rasul to Everyone:
+	D
+11:57:19 From Syed Nabeel to Everyone:
+	D
+11:57:19 From codebase to Everyone:
+	D
+11:57:20 From alchweki to Everyone:
+	d
+11:57:20 From Fayyaz Ahmed to Everyone:
+	D
+11:57:20 From Razi to Everyone:
+	d
+11:57:20 From faizatabassum to Everyone:
+	d
+11:57:20 From 41864-Mohammad Ziaul Karim to Everyone:
+	D
+11:57:20 From suhaib to Everyone:
+	D
+11:57:21 From Ranaa R. to Everyone:
+	All of the above
+11:57:21 From Shaikh Rasool to Everyone:
+	D
+11:57:22 From Shahid Syed to Everyone:
+	D
+11:57:22 From Hadiya Ansari to Everyone:
+	d
+11:57:22 From sarah to Everyone:
+	D
+11:57:22 From Doreen Motsi to Everyone:
+	D
+11:57:23 From Sajid to Everyone:
+	D
+11:57:23 From Nayyer to Everyone:
+	d
+11:57:23 From Hamza Naser to Everyone:
+	D
+11:57:24 From Shawn Ahmed to Everyone:
+	All of the above
+11:57:24 From faraz khan to Everyone:
+	D
+11:57:25 From HASNAIN to Everyone:
+	D
+11:57:26 From nada to Everyone:
+	D
+11:57:26 From Fasih Sheikh to Everyone:
+	D
+11:57:27 From Parsa to Everyone:
+	A
+11:57:28 From Amer Nazimuddin 🇵🇸 to Everyone:
+	D
+11:57:28 From syeda to Everyone:
+	D
+11:57:29 From Farru to Everyone:
+	D
+11:57:29 From Najia to Everyone:
+	D
+11:57:29 From nana to Everyone:
+	D
+11:57:29 From Umair Iqbal to Everyone:
+	D
+11:57:30 From senthilkumar vaithilingam to Everyone:
+	d
+11:57:32 From g arif to Everyone:
+	d
+11:57:32 From Abazer Ali to Everyone:
+	D
+11:57:32 From ndella to Everyone:
+	d
+11:57:33 From Shamim Mazumder to Everyone:
+	D
+11:57:33 From Rubeena to Everyone:
+	D
+11:57:33 From suhaib to Everyone:
+	D
+11:57:39 From Ahmed to Everyone:
+	D
+11:57:39 From Boubacar Housseini to Everyone:
+	D
+11:57:39 From Ovais Mohammad to Everyone:
+	D
+11:57:42 From Nasir Uddin to Everyone:
+	D
+11:57:43 From Rawan to Everyone:
+	D
+11:57:44 From bashar bseiso to Everyone:
+	d
+11:57:44 From Monzer "Mike" to Everyone:
+	they are all natural
+11:57:45 From said to Everyone:
+	D
+11:57:46 From Noman Syed to Everyone:
+	d
+11:58:06 From Arshad Shaikh to Everyone:
+	A
+11:58:10 From Noman Syed to Everyone:
+	A
+11:58:12 From ayesha ather to Everyone:
+	a
+11:58:13 From Sherinay to Everyone:
+	A
+11:58:13 From Shawn Ahmed to Everyone:
+	A
+11:58:14 From Monzer "Mike" to Everyone:
+	A
+11:58:14 From Syed A to Everyone:
+	Sso a
+11:58:14 From Shaikh Rasool to Everyone:
+	A
+11:58:15 From senthilkumar vaithilingam to Everyone:
+	A
+11:58:15 From Fayyaz Ahmed to Everyone:
+	A
+11:58:15 From codebase to Everyone:
+	A
+11:58:16 From Idrees Abdul Raheem to Everyone:
+	A
+11:58:16 From Nayyer to Everyone:
+	A
+11:58:16 From Razi to Everyone:
+	a
+11:58:16 From Umar Rasul to Everyone:
+	A
+11:58:16 From wquraishi to Everyone:
+	A
+11:58:17 From Shawn Ahmed to Everyone:
+	SSO
+11:58:18 From nada to Everyone:
+	A
+11:58:18 From sarah to Everyone:
+	a
+11:58:19 From alchweki to Everyone:
+	a
+11:58:20 From Najia to Everyone:
+	A
+11:58:20 From Razi to Everyone:
+	a
+11:58:21 From Fasih Sheikh to Everyone:
+	A
+11:58:22 From Muhammad Siddiqui to Everyone:
+	A SSO
+11:58:22 From Razi to Everyone:
+	a
+11:58:22 From ACihan to Everyone:
+	c
+11:58:23 From Amer Nazimuddin 🇵🇸 to Everyone:
+	A
+11:58:25 From Syed Nabeel to Everyone:
+	A
+11:58:25 From Parsa to Everyone:
+	C
+11:58:25 From faraz khan to Everyone:
+	Single sign on
+11:58:26 From Rubeena to Everyone:
+	A
+11:58:27 From 41864-Mohammad Ziaul Karim to Everyone:
+	A
+11:58:28 From Razi to Everyone:
+	a
+11:58:29 From suhaib to Everyone:
+	A
+11:58:29 From Umair Iqbal to Everyone:
+	A
+11:58:29 From HASNAIN to Everyone:
+	A
+11:58:30 From Razi to Everyone:
+	a
+11:58:32 From Shaikh Rasool to Everyone:
+	A
+11:58:33 From nana to Everyone:
+	A
+11:58:34 From Doreen Motsi to Everyone:
+	A
+11:58:36 From syeda to Everyone:
+	A
+11:58:37 From Shahid Syed to Everyone:
+	A
+11:58:40 From ndella to Everyone:
+	a
+11:58:41 From faizatabassum to Everyone:
+	a
+11:58:47 From Parsa to Everyone:
+	A
+11:58:47 From Abazer Ali to Everyone:
+	C
+11:58:48 From Razi to Everyone:
+	a
+11:58:53 From g arif to Everyone:
+	c
+11:58:54 From suhaib to Everyone:
+	C
+11:58:55 From ACihan to Everyone:
+	c
+11:58:55 From Farru to Everyone:
+	A
+11:58:55 From Amer Nazimuddin 🇵🇸 to Everyone:
+	Salted hash - making me hungry
+11:58:58 From Razi to Everyone:
+	a
+11:59:04 From MD BIPLOB to Everyone:
+	A
+11:59:04 From Nasir Uddin to Everyone:
+	A
+11:59:06 From Hadiya Ansari to Everyone:
+	a
+11:59:09 From Sherinay to Everyone:
+	Reacted to "Salted hash - making..." with 😂
+11:59:17 From said to Everyone:
+	D
+11:59:18 From Fahim Ahmed to Everyone:
+	A
+11:59:25 From Syed A to Everyone:
+	Does we get similar type questions in real CISSP exa
+11:59:26 From said to Everyone:
+	A
+12:01:01 From ayesha ather to Everyone:
+	yes you can check sample questions in the isc2 website
+12:01:09 From Umair Iqbal to Everyone:
+	Replying to "Does we get similar ..."
+	
+	But more in detail with the story
+12:01:31 From Sherinay to Everyone:
+	Replying to "Does we get similar ..."
+	
+	yea I head it is scenario based
+12:02:06 From Rubeena to Everyone:
+	Can some one send me agroup link in what's app
+12:02:26 From Rubeena to Everyone:
+	For group study
+12:04:06 From said to Everyone:
+	Replying to "im in dfw, is this a..."
+	
+	4697747183
+12:04:22 From said to Everyone:
+	Replying to "im in dfw, is this a..."
+	
+	I am in Wylie
+12:07:11 From Rubeena to Everyone:
+	I live in wylie 
+	Some one lives near by me
+12:07:59 From Bakhtear to Everyone:
+	https://chat.whatsapp.com/IyJvXWMHgFjB3IaOri2LBQ
+12:08:24 From Rubeena to Everyone:
+	What is this?
+12:11:40 From Umair Iqbal to Everyone:
+	Hello everyone I’m planning to move to Texas Plano, wondering how’s the situation there as its a clear red state and heard about low tolerance for Muslims?
+12:12:38 From Monzer "Mike" to Everyone:
+	yes
+12:12:39 From g arif to Everyone:
+	k
+12:12:41 From Umar Rasul to Everyone:
+	yes
+12:12:41 From 41864-Mohammad Ziaul Karim to Everyone:
+	YYES
+12:12:41 From faizatabassum to Everyone:
+	yes
+12:12:43 From kaame to Everyone:
+	yes
+12:12:43 From Sherinay to Everyone:
+	Replying to "Hello everyone I’m p..."
+	
+	we just moved and I feel the opposite
+12:12:43 From Ranaa R. to Everyone:
+	yes
+12:12:46 From Barzan Ahmed to Everyone:
+	Replying to "Hello everyone I’m p..."
+	
+	you will love Plano, it has the EPIC masjid. I just moved here myself from New Hampshire
+12:12:48 From Sherinay to Everyone:
+	Replying to "Hello everyone I’m p..."
+	
+	alhamdulillah
+12:13:08 From Barzan Ahmed to Everyone:
+	Replying to "Hello everyone I’m p..."
+	
+	Love it so far
+12:13:32 From sarah to Everyone:
+	Replying to "https://chat.whatsap..."
+	
+	I tried opening the link and it says "page does not exist"
+12:13:44 From Ranaa R. to Everyone:
+	Replying to "Hello everyone I’m p..."
+	
+	never had any issues Alhamdulillah
+12:16:55 From Umair Iqbal to Everyone:
+	Reacted to "never had any issues..." with 👍🏻
+12:17:04 From Abubakar Khan to Everyone:
+	Replying to "Hello everyone I’m p..."
+	
+	Plano, Frisco, McKinney, Carrollton, Dallas are all great places but are getting expensive day by day. Religion wise or tolerance wise these are amazing places.
+12:17:31 From nada to Everyone:
+	Replying to "Hello everyone I’m p…"
+	its safe!
+12:19:01 From Ranaa R. to Everyone:
+	Reacted to "Plano, Frisco, McKin..." with 👍
+12:19:14 From Hashir to Everyone:
+	Risk - Man on rope
+12:19:15 From Sajid to Everyone:
+	Threat is croackadile,
+12:19:16 From Shaikh Rasool to Everyone:
+	Alligator is threat
+12:19:18 From nana to Everyone:
+	croc is threat
+12:19:19 From ndella to Everyone:
+	fall break her foot
+12:19:24 From Shaikh Rasool to Everyone:
+	rope
+12:19:24 From Zaid Hamid to Everyone:
+	Risk of falling 
+	Threat of crocodile 
+	Vulnerabilities of the rope breaking
+12:19:25 From g arif to Everyone:
+	fall
+12:19:25 From Razi to Everyone:
+	Replying to "Hello everyone I’m p..."
+	
+	Vulnerability: walking on role
+12:19:28 From faraz khan to Everyone:
+	the man
+12:19:28 From Razi to Everyone:
+	Replying to "Hello everyone I’m p..."
+	
+	rope
+12:19:29 From Noman Syed to Everyone:
+	1 vulnerability, 2 threats, 2 risks
+12:19:29 From Umar Rasul to Everyone:
+	Risk is fall
+12:19:31 From Fasih Sheikh to Everyone:
+	Replying to "Hello everyone I’m p..."
+	
+	rope
+12:19:31 From faizatabassum to Everyone:
+	V: rope, human
+12:19:31 From Sajid to Everyone:
+	Vulnerability is rope
+12:19:33 From Boubacar Housseini to Everyone:
+	Man
+12:19:34 From Monzer "Mike" to Everyone:
+	walking on rope
+12:19:34 From Sherinay to Everyone:
+	Replying to "https://chat.whatsap..."
+	
+	the thin thread he is on
+12:19:34 From ayesha ather to Everyone:
+	rope
+12:19:36 From senthilkumar vaithilingam to Everyone:
+	rope
+12:19:36 From sarah to Everyone:
+	vulnerability - walking on rope
+12:19:37 From Barzan Ahmed to Everyone:
+	the tiny rope
+12:19:37 From MD BIPLOB to Everyone:
+	Vul: walking on tightrope
+12:19:37 From Hadiya Ansari to Everyone:
+	rope
+12:19:37 From Parsa to Everyone:
+	ROPE, ALLEGATOR, MAN DYING
+12:19:38 From g arif to Everyone:
+	imbalance
+12:19:38 From Umar Rasul to Everyone:
+	threat is croc
+12:19:39 From HASNAIN to Everyone:
+	ROPE
+12:19:39 From Nayyer to Everyone:
+	tightrope
+12:19:40 From codebase to Everyone:
+	rope
+12:19:41 From Shahid Syed to Everyone:
+	V = Person
+12:19:45 From Farru to Everyone:
+	V= single rope
+12:19:46 From 41864-Mohammad Ziaul Karim to Everyone:
+	ROPE IS VULNA
+12:19:47 From Umar Rasul to Everyone:
+	V is human
+12:19:48 From Farru to Everyone:
+	perspn
+12:19:49 From Shamim Mazumder to Everyone:
+	Rope
+12:19:56 From 41864-Mohammad Ziaul Karim to Everyone:
+	CROC IS THREAT
+12:19:56 From syeda to Everyone:
+	V= rope
+12:19:58 From Rubeena to Everyone:
+	Person
+12:20:00 From Jenath to Everyone:
+	rope
+12:20:01 From Ranaa R. to Everyone:
+	risk, fall, threat is injury, vulnerability -> human
+12:20:12 From 41864-Mohammad Ziaul Karim to Everyone:
+	LIFE RISK
+12:20:17 From Sherinay to Everyone:
+	threat is possibility of falling
+12:20:18 From ndella to Everyone:
+	fall
+12:20:21 From Fasih Sheikh to Everyone:
+	crocs
+12:20:23 From Boubacar Housseini to Everyone:
+	To be killed
+12:20:23 From Shaikh Rasool to Everyone:
+	croks
+12:20:24 From Sajid to Everyone:
+	Threat of fall
+12:20:25 From faizatabassum to Everyone:
+	Alligators, drowning
+12:20:25 From sarah to Everyone:
+	threat is crocodile
+12:20:26 From Noman Syed to Everyone:
+	alligators
+12:20:26 From syeda to Everyone:
+	T=alligator
+12:20:26 From Parsa to Everyone:
+	CROCODILES
+12:20:26 From MD BIPLOB to Everyone:
+	Alligator
+12:20:26 From Syed A to Everyone:
+	Crocodile
+12:20:28 From faraz khan to Everyone:
+	aligators
+12:20:29 From g arif to Everyone:
+	crocks
+12:20:29 From Noman Syed to Everyone:
+	croc
+12:20:30 From Hadiya Ansari to Everyone:
+	crocodile
+12:20:30 From 41864-Mohammad Ziaul Karim to Everyone:
+	FALL DOWN
+12:20:31 From Monzer "Mike" to Everyone:
+	fall and drwan
+12:20:31 From Farru to Everyone:
+	Wild Anmal
+12:20:31 From Shahid Syed to Everyone:
+	T = crock'
+12:20:32 From Umar Rasul to Everyone:
+	threat of fall to the croc
+12:20:33 From Nayyer to Everyone:
+	alilgators
+12:20:34 From Shamim Mazumder to Everyone:
+	Water
+12:20:35 From Razi to Everyone:
+	alligator and drowning
+12:20:39 From Sherinay to Everyone:
+	fall and croc, water
+12:20:40 From senthilkumar vaithilingam to Everyone:
+	aligator
+12:20:45 From Umair Iqbal to Everyone:
+	Risk of death
+12:20:46 From Ranaa R. to Everyone:
+	alligator
+12:20:48 From Jenath to Everyone:
+	water dangers
+12:20:50 From HASNAIN to Everyone:
+	CROC AND DROWNING
+12:20:50 From Abazer Ali to Everyone:
+	aligator
+12:20:57 From Monzer "Mike" to Everyone:
+	hungry alligator
+12:20:57 From alchweki to Everyone:
+	all
+12:20:57 From Umair Iqbal to Everyone:
+	Alligator actually
+12:20:58 From Nasir Uddin to Everyone:
+	risk
+12:21:02 From said to Everyone:
+	Crocodile
+12:21:31 From Idrees Abdul Raheem to Everyone:
+	death
+12:21:32 From Hadiya Ansari to Everyone:
+	crocodile
+12:21:32 From ndella to Everyone:
+	break her foot
+12:21:33 From 41864-Mohammad Ziaul Karim to Everyone:
+	LIFE RISK
+12:21:33 From Nayyer to Everyone:
+	death
+12:21:34 From Shaikh Rasool to Everyone:
+	croc
+12:21:35 From ndella to Everyone:
+	death
+12:21:36 From Sherinay to Everyone:
+	being eaten
+12:21:36 From faizatabassum to Everyone:
+	life
+12:21:37 From Farru to Everyone:
+	risk of failing
+12:21:37 From Sajid to Everyone:
+	man can be harmed by Croc
+12:21:38 From Boubacar Housseini to Everyone:
+	Dath
+12:21:39 From Jenath to Everyone:
+	getting hurt
+12:21:42 From Ovais Mohammad to Everyone:
+	life
+12:21:42 From g arif to Everyone:
+	death
+12:21:43 From Shahid Syed to Everyone:
+	R = getting hurt
+12:21:43 From Alieu Dem to Everyone:
+	Falling
+12:21:44 From syeda to Everyone:
+	R=his life
+12:21:46 From Syed A to Everyone:
+	Loss of life
+12:21:47 From Barzan Ahmed to Everyone:
+	the man becoming a meal for the alligators
+12:21:48 From Fasih Sheikh to Everyone:
+	life/hurt
+12:21:48 From suhaib to Everyone:
+	life
+12:21:49 From alchweki to Everyone:
+	falling
+12:21:50 From Razi to Everyone:
+	breakfast of crcodile
+12:21:51 From Umar Rasul to Everyone:
+	risk of life
+12:21:52 From Ranaa R. to Everyone:
+	risk of life
+12:21:52 From Rubeena to Everyone:
+	Falling
+12:21:56 From Monzer "Mike" to Everyone:
+	drown or attacted by alligator
+12:22:00 From Ranaa R. to Everyone:
+	Reacted to "breakfast of crcodil..." with 😂
+12:22:01 From Shahid Syed to Everyone:
+	Reacted to "breakfast of crcodil..." with 😂
+12:22:04 From Barzan Ahmed to Everyone:
+	Reacted to "breakfast of crcodil..." with 😅
+12:22:07 From Shamim Mazumder to Everyone:
+	Crocodile
+12:22:09 From Ranaa R. to Everyone:
+	Removed a 😂 reaction from "breakfast of crcodil..."
+12:22:09 From Umar Rasul to Everyone:
+	Alligator getting Hungry lol
+12:22:11 From Ranaa R. to Everyone:
+	Reacted to "breakfast of crcodil..." with 😂
+12:22:13 From suhaib to Everyone:
+	Reacted to "breakfast of crcodil..." with 😂
+12:22:13 From said to Everyone:
+	He will be a sandwich for Alligators
+12:22:19 From Umar Rasul to Everyone:
+	Reacted to "breakfast of crcodil..." with 😂
+12:22:25 From Ranaa R. to Everyone:
+	Reacted to "Alligator getting Hu..." with 😋
+12:22:32 From nada to Everyone:
+	Reacted to "Alligator getting Hu…" with 😋
+12:22:46 From Ranaa R. to Everyone:
+	Reacted to "He will be a sandwic..." with 🥪
+12:22:47 From nada to Everyone:
+	Threat is Alligator right
+12:22:51 From nada to Everyone:
+	Reacted to "He will be a sandwic…" with 🥪
+12:22:55 From faizatabassum to Everyone:
+	Make a bridge
+12:22:57 From Sherinay to Everyone:
+	don't get on the rope
+12:23:01 From HASNAIN to Everyone:
+	BETTER ROPE
+12:23:01 From Alieu Dem to Everyone:
+	Boat
+12:23:02 From Ranaa R. to Everyone:
+	harness
+12:23:04 From Nayyer to Everyone:
+	build a bridge
+12:23:07 From Sherinay to Everyone:
+	use better tech lol
+12:23:08 From Umar Rasul to Everyone:
+	harness
+12:23:09 From Parsa to Everyone:
+	HARNESS
+12:23:15 From Umair Iqbal to Everyone:
+	Shoot the Alligator
+12:23:21 From senthilkumar vaithilingam to Everyone:
+	and strong control
+12:23:22 From Umar Rasul to Everyone:
+	Reacted to "and strong control" with 😂
+12:23:22 From alchweki to Everyone:
+	kill the aligator
+12:23:24 From Umar Rasul to Everyone:
+	Removed a 😂 reaction from "and strong control"
+12:23:26 From Ranaa R. to Everyone:
+	Reacted to "Shoot the Alligator" with 😂
+12:23:27 From Umar Rasul to Everyone:
+	Reacted to "Shoot the Alligator" with 😂
+12:23:27 From Parsa to Everyone:
+	Reacted to "Shoot the Alligator" with 😂
+12:23:30 From Barzan Ahmed to Everyone:
+	Reacted to "kill the aligator" with 😆
+12:23:37 From Monzer "Mike" to Everyone:
+	safer
+12:23:40 From HASNAIN to Everyone:
+	ALIGATOR TIKAA
+12:23:42 From Zaid Hamid to Everyone:
+	Reacted to "kill the aligator" with 😐
+12:23:48 From Umair Iqbal to Everyone:
+	Reacted to "ALIGATOR TIKAA" with 😃
+12:23:53 From Umar Rasul to Everyone:
+	Reacted to "ALIGATOR TIKAA" with 😂
+12:23:58 From Barzan Ahmed to Everyone:
+	Reacted to "ALIGATOR TIKAA" with 🤢
+12:24:05 From sarah to Everyone:
+	walk around the lake
+12:24:13 From Sherinay to Everyone:
+	🐊 🔫
+12:24:20 From Sherinay to Everyone:
+	Reacted to "ALIGATOR TIKAA" with 😂
+12:24:20 From Ranaa R. to Everyone:
+	Reacted to "ALIGATOR TIKAA" with 😂
+12:24:24 From Ranaa R. to Everyone:
+	Reacted to "🐊 🔫" with 👍
+12:24:28 From Umar Rasul to Everyone:
+	Reacted to "🐊 🔫" with 👍
+12:24:29 From ayesha ather to Everyone:
+	other route
+12:24:42 From Parsa to Everyone:
+	Reacted to "🐊 🔫" with 👍
+12:24:52 From Parsa to Everyone:
+	Reacted to "🐊 🔫" with 🤩
+12:25:03 From Sherinay to Everyone:
+	Reacted to "🐊 🔫" with 😵‍💫
+12:25:18 From Parsa to Everyone:
+	Reacted to "🐊 🔫" with 🔫
+12:25:44 From Parsa to Everyone:
+	Reacted to "🐊 🔫" with 👏
+12:25:50 From Parsa to Everyone:
+	Reacted to "🐊 🔫" with 😯
+12:27:31 From Noman Syed to Everyone:
+	Reacted to "🐊 🔫" with 🐊
+12:28:21 From Abubakar Khan to Everyone:
+	Reacted to "🐊 🔫" with 🤩
+12:34:58 From Parsa to Everyone:
+	50000
+12:35:06 From Shahid Syed to Everyone:
+	SLE = 50,000
+12:35:10 From Sherinay to Everyone:
+	50 thousand
+12:35:12 From Noman Syed to Everyone:
+	50K
+12:35:12 From g arif to Everyone:
+	50000
+12:35:13 From 41864-Mohammad Ziaul Karim to Everyone:
+	50000
+12:35:16 From Syed A to Everyone:
+	50k
+12:35:17 From Fasih Sheikh to Everyone:
+	50k
+12:35:21 From ndella to Everyone:
+	50000
+12:35:23 From Ranaa R. to Everyone:
+	50K
+12:35:23 From Fahim Ahmed to Everyone:
+	50k
+12:35:25 From Sherinay to Everyone:
+	AV x EF == SLE
+12:35:26 From Fasih Sheikh to Everyone:
+	10k
+12:35:27 From syeda to Everyone:
+	50K
+12:35:27 From faizatabassum to Everyone:
+	50K
+12:35:28 From sarah to Everyone:
+	50,000
+12:35:28 From Umar Rasul to Everyone:
+	50K
+12:35:28 From Hadiya Ansari to Everyone:
+	50000
+12:35:31 From Boubacar Housseini to Everyone:
+	2500
+12:35:32 From Parsa to Everyone:
+	ARO WOULD BE 10000
+12:35:39 From Muhammad Siddiqui to Everyone:
+	50K
+12:35:39 From HASNAIN to Everyone:
+	50000
+12:35:44 From Nayyer to Everyone:
+	50k
+12:35:45 From Hasan to Everyone:
+	20000
+12:35:45 From faraz khan to Everyone:
+	$10,000
+12:35:46 From Shahid Syed to Everyone:
+	ALE = ,000
+12:35:50 From Idrees Abdul Raheem to Everyone:
+	10,000
+12:35:52 From senthilkumar vaithilingam to Everyone:
+	500k
+12:35:55 From Shahid Syed to Everyone:
+	ale = 10,000
+12:35:58 From Shamim Mazumder to Everyone:
+	10K
+12:36:01 From wquraishi to Everyone:
+	SLE=50K and ALE 1K
+12:36:07 From Parsa to Everyone:
+	ALE 10000 SLE 50000
+12:36:23 From HASNAIN to Everyone:
+	10000
+12:37:11 From wquraishi to Everyone:
+	SLE=50K and ALE 10K
+12:37:32 From g arif to Everyone:
+	10k
+12:37:36 From Noman Syed to Everyone:
+	10K
+12:37:38 From Nayyer to Everyone:
+	10k
+12:37:39 From faizatabassum to Everyone:
+	10K
+12:37:43 From Syed A to Everyone:
+	ALE = 10000
+12:37:45 From Fasih Sheikh to Everyone:
+	10k
+12:37:45 From Ranaa R. to Everyone:
+	10,000
+12:37:46 From Umar Rasul to Everyone:
+	10K
+12:37:48 From ndella to Everyone:
+	10000
+12:37:49 From Noman Syed to Everyone:
+	10K
+12:37:51 From Sherinay to Everyone:
+	10k
+12:37:53 From Boubacar Housseini to Everyone:
+	10k
+12:37:53 From HASNAIN to Everyone:
+	10K
+12:37:56 From 41864-Mohammad Ziaul Karim to Everyone:
+	10000
+12:37:58 From Muhammad Siddiqui to Everyone:
+	ALE = 10K
+12:37:58 From Umair Iqbal to Everyone:
+	10k
+12:37:58 From Syed Nabeel to Everyone:
+	10k
+12:38:02 From syeda to Everyone:
+	10K
+12:38:05 From Hadiya Ansari to Everyone:
+	10k
+12:38:19 From bashar bseiso to Everyone:
+	10k
+12:38:19 From sarah to Everyone:
+	10,000
+12:38:21 From ayesha ather to Everyone:
+	10k
+12:38:27 From senthilkumar vaithilingam to Everyone:
+	10k
+12:38:38 From nada to Everyone:
+	10k
+12:39:21 From nana to Everyone:
+	3000
+12:39:36 From Parsa to Everyone:
+	1500 SLE  ALE IS 150
+12:39:37 From 41864-Mohammad Ziaul Karim to Everyone:
+	1500
+12:39:39 From Fasih Sheikh to Everyone:
+	1500
+12:39:39 From Sajid to Everyone:
+	1500
+12:39:40 From faizatabassum to Everyone:
+	1500
+12:39:41 From Noman Syed to Everyone:
+	SLE=1500
+	ALE=150
+12:39:42 From Hadiya Ansari to Everyone:
+	1500
+12:39:42 From alchweki to Everyone:
+	1500
+12:39:43 From Syed A to Everyone:
+	1500
+12:39:45 From Nayyer to Everyone:
+	1500
+12:39:46 From Syed Nabeel to Everyone:
+	1500
+12:39:46 From ndella to Everyone:
+	1500
+12:39:46 From g arif to Everyone:
+	1500
+12:39:46 From faraz khan to Everyone:
+	1500
+12:39:52 From Ranaa R. to Everyone:
+	1500
+12:39:54 From Umar Rasul to Everyone:
+	1500
+12:39:54 From ayesha ather to Everyone:
+	1500
+12:39:56 From HASNAIN to Everyone:
+	1500
+12:39:58 From Ahmed to Everyone:
+	1500
+12:40:00 From Umair Iqbal to Everyone:
+	1500
+12:40:01 From 41864-Mohammad Ziaul Karim to Everyone:
+	ALE 150
+12:40:03 From bashar bseiso to Everyone:
+	1500
+12:40:04 From senthilkumar vaithilingam to Everyone:
+	1.5k
+12:40:09 From syeda to Everyone:
+	1500
+12:40:14 From 41864-Mohammad Ziaul Karim to Everyone:
+	150
+12:40:14 From faraz khan to Everyone:
+	150
+12:40:15 From ndella to Everyone:
+	150
+12:40:16 From Idrees Abdul Raheem to Everyone:
+	ALE 150
+12:40:16 From faizatabassum to Everyone:
+	150
+12:40:17 From Nayyer to Everyone:
+	150
+12:40:18 From g arif to Everyone:
+	150
+12:40:19 From Syed Nabeel to Everyone:
+	150
+12:40:19 From alchweki to Everyone:
+	150
+12:40:20 From HASNAIN to Everyone:
+	150
+12:40:21 From Fasih Sheikh to Everyone:
+	150
+12:40:21 From Boubacar Housseini to Everyone:
+	150
+12:40:24 From nana to Everyone:
+	150
+12:40:25 From Syed A to Everyone:
+	150
+12:40:28 From Umar Rasul to Everyone:
+	150
+12:40:28 From Sherinay to Everyone:
+	150
+12:40:30 From Noman Syed to Everyone:
+	150
+12:40:35 From Shamim Mazumder to Everyone:
+	150
+12:40:37 From Ranaa R. to Everyone:
+	150
+12:40:38 From Umair Iqbal to Everyone:
+	150
+12:40:40 From syeda to Everyone:
+	150
+12:40:44 From bashar bseiso to Everyone:
+	150
+12:40:45 From Muhammad Siddiqui to Everyone:
+	150
+12:41:28 From Sherinay to Everyone:
+	0.1
+12:41:45 From senthilkumar vaithilingam to Everyone:
+	150
+12:43:14 From Taha Tareen to Everyone:
+	Did anyone make a slack or group chat for the study group?
+12:43:38 From Abubakar Khan to Everyone:
+	yeah
+12:43:48 From Taha Tareen to Everyone:
+	Can you add me in
+12:43:59 From Taha Tareen to Everyone:
+	647-739-2051
+12:44:04 From Taha Tareen to Everyone:
+	Tahatareen1@gmail.com
+12:44:34 From 41864-Mohammad Ziaul Karim to Everyone:
+	https://chat.whatsapp.com/IyJvXWMHgFjB3IaOri2LBQ
+12:44:37 From 41864-Mohammad Ziaul Karim to Everyone:
+	JOIN
+12:44:57 From Abubakar Khan to Everyone:
+	@Taha Tareen click on the link
+12:47:32 From Rubeena to Everyone:
+	It should invaild
+12:47:34 From Taha Tareen to Everyone:
+	Got it, thanks
+12:48:49 From Rubeena to Everyone:
+	Failed to get in the group
+12:49:43 From Mohammad to Everyone:
+	what is after management approval? is it “repeat” or “report”?
+12:49:54 From Monzer "Mike" to Everyone:
+	report
+12:50:01 From Mohammad to Everyone:
+	Reacted to "report" with 👍
+12:50:05 From Razi to Everyone:
+	Published
+12:50:20 From Razi to Everyone:
+	and than yearly revision
+12:50:24 From Sherinay to Everyone:
+	Sign Off
+12:51:09 From nana to Everyone:
+	i got lost in that process
+12:52:18 From Sherinay to Everyone:
+	1. RIsk Analysis	2. Risk Reponse	3.Identify Control	4.Implement Control	5.Verify Control	6.Management Approvals	7.Sign Off
+12:53:06 From nana to Everyone:
+	thank you
+12:53:15 From Sherinay to Everyone:
+	Reacted to "thank you" with 👍🏻
+12:56:49 From Sherinay to Everyone:
+	can we not take break to just finish up? maybe end little early?
+12:57:01 From Abubakar Khan to Everyone:
+	Reacted to "can we not take brea..." with 😂
+12:57:05 From Barzan Ahmed to Everyone:
+	Reacted to "can we not take brea..." with 😁
+12:57:14 From said to Everyone:
+	Reacted to "can we not take brea..." with 😯
+12:57:17 From Parsa to Everyone:
+	Reacted to "can we not take brea..." with 👍
+12:57:17 From Abubakar Khan to Everyone:
+	Replying to "can we not take brea..."
+	
+	A little overwhelming. Isn't it
+12:57:27 From Sherinay to Everyone:
+	Reacted to "A little overwhelmin..." with 🥴
+12:57:36 From Moosa Toor to Everyone:
+	Replying to "can we not take brea..."
+	
+	low key it is
+12:57:42 From Parsa to Everyone:
+	Replying to "can we not take brea..."
+	
+	more like we got kids in programs that need to be picked up
+12:57:51 From Sherinay to Everyone:
+	Reacted to "more like we got kid..." with 👍🏻
+12:57:57 From Sherinay to Everyone:
+	Replying to "can we not take brea..."
+	
+	yea yea
+12:58:40 From Amer Nazimuddin 🇵🇸 to Everyone:
+	Reacted to "can we not take brea…" with 👍
+12:59:04 From Parsa to Everyone:
+	residual just means left over
+12:59:15 From Sherinay to Everyone:
+	Reacted to "residual just means ..." with 👍🏻
+12:59:36 From Sherinay to Everyone:
+	Reacted to "residual just means ..." with 🔫
+12:59:37 From Abubakar Khan to Everyone:
+	Reacted to "low key it is" with 😂
+12:59:40 From Sherinay to Everyone:
+	Reacted to "residual just means ..." with 🐊
+12:59:47 From Sherinay to Everyone:
+	Reacted to "residual just means ..." with 🤓
+12:59:48 From Abubakar Khan to Everyone:
+	Replying to "can we not take brea..."
+	
+	@Moosa Toor Agreed
+13:00:01 From Parsa to Everyone:
+	americans just like to make simple things sound complicated  :)
+13:00:18 From Barzan Ahmed to Everyone:
+	Reacted to "americans just like ..." with 😆
+13:00:22 From kaame to Everyone:
+	Reacted to "americans just like ..." with 😆
+13:00:27 From Ranaa Rasul to Everyone:
+	Reacted to "americans just like ..." with 😆
+13:00:30 From Umar Rasul to Everyone:
+	Reacted to "americans just like ..." with 😆
+13:00:30 From Sherinay to Everyone:
+	Replying to "americans just like ..."
+	
+	suffisticated
+13:01:01 From Abubakar Khan to Everyone:
+	Reacted to "americans just like ..." with 😆
+13:01:03 From senthilkumar vaithilingam to Everyone:
+	Can you add me in whats app group Senthil plano -972 757 2335
+13:01:05 From Shamim Mazumder to Everyone:
+	I wish it was enough for today.
+13:01:18 From nada to Everyone:
+	Reacted to "can we not take brea…" with 😂
+13:01:48 From nada to Everyone:
+	Reacted to "americans just like …" with 😆
+13:01:51 From Abubakar Khan to Everyone:
+	Reacted to "I wish it was enough..." with 😂
+13:01:52 From Ranaa Rasul to Everyone:
+	Reacted to "I wish it was enough..." with 😅
+13:01:55 From Ranaa Rasul to Everyone:
+	Reacted to "I wish it was enough..." with 😂
+13:01:56 From Ranaa Rasul to Everyone:
+	Removed a 😅 reaction from "I wish it was enough..."
+13:02:15 From Abubakar Khan to Everyone:
+	only one more hour left
+13:02:16 From Shahid Syed to Everyone:
+	Can someone send whatsapps group link please Thanks in advance?
+13:02:26 From Sherinay to Everyone:
+	Reacted to "only one more hour l..." with 😵‍💫
+13:02:30 From Amer Nazimuddin 🇵🇸 to Everyone:
+	Reacted to "americans just like …" with 😆
+13:02:51 From Umar Rasul to Everyone:
+	Reacted to "I wish it was enough..." with 😂
+13:03:11 From Sherinay to Everyone:
+	https://chat.whatsapp.com/IyJvXWMHgFjB3IaOri2LBQ
+13:10:38 From Monzer "Mike" to Everyone:
+	yes
+13:10:40 From alchweki to Everyone:
+	yes
+13:10:40 From Abubakar Khan to Everyone:
+	yessir
+13:10:40 From Barzan Ahmed to Everyone:
+	Yes
+13:10:40 From Boubacar Housseini to Everyone:
+	Yes
+13:10:47 From Ranaa Rasul to Everyone:
+	yes
+13:10:52 From faizatabassum to Everyone:
+	No screen
+13:11:10 From faizatabassum to Everyone:
+	Plz continue its a boot camp
+13:11:14 From kaame to Everyone:
+	share the screen
+13:11:56 From Sherinay to Everyone:
+	C
+13:12:00 From Rasool Pasha to Everyone:
+	a
+13:12:01 From Barzan Ahmed to Everyone:
+	C
+13:12:04 From Fasih Sheikh to Everyone:
+	C
+13:12:04 From kaame to Everyone:
+	c
+13:12:07 From Amer Nazimuddin 🇵🇸 to Everyone:
+	C
+13:12:08 From sarah to Everyone:
+	C
+13:12:08 From Umair to Everyone:
+	C
+13:12:08 From Monzer "Mike" to Everyone:
+	c
+13:12:09 From 41864-Mohammad Ziaul Karim to Everyone:
+	c
+13:12:10 From Najia to Everyone:
+	C
+13:12:11 From Ranaa Rasul to Everyone:
+	C
+13:12:12 From Ovais Mohammad to Everyone:
+	C
+13:12:13 From Umar Rasul to Everyone:
+	C
+13:12:15 From g arif to Everyone:
+	c
+13:12:16 From codebase to Everyone:
+	c
+13:12:16 From Syed A to Everyone:
+	A
+13:12:18 From faraz khan to Everyone:
+	business continuity
+13:12:20 From said to Everyone:
+	A
+13:12:20 From ayesha ather to Everyone:
+	c
+13:12:20 From Jehan Khan to Everyone:
+	C
+13:12:21 From Abrar Aslam to Everyone:
+	C
+13:12:21 From Alieu Dem to Everyone:
+	C
+13:12:22 From HASNAIN to Everyone:
+	C
+13:12:23 From faizatabassum to Everyone:
+	c
+13:12:24 From Shahmir Khan to Everyone:
+	A
+13:12:24 From faraz khan to Everyone:
+	c
+13:12:25 From alchweki to Everyone:
+	c
+13:12:26 From Abubakar Khan to Everyone:
+	c
+13:12:28 From Nayyer to Everyone:
+	a
+13:12:30 From Hadiya Ansari to Everyone:
+	c
+13:12:30 From Shamim Mazumder to Everyone:
+	C
+13:12:31 From syeda to Everyone:
+	c
+13:12:33 From Boubacar Housseini to Everyone:
+	C
+13:12:33 From Shahid Syed to Everyone:
+	C
+13:12:35 From Syed A to Everyone:
+	A
+13:12:36 From 0224 to Everyone:
+	C
+13:12:40 From Farru to Everyone:
+	C
+13:12:40 From Shahmir Khan to Everyone:
+	C
+13:12:42 From Noman Syed to Everyone:
+	C
+13:12:45 From Sajid to Everyone:
+	C
+13:12:45 From Monzer "Mike" to Everyone:
+	recovery is key word
+13:12:47 From ACihan to Everyone:
+	a
+13:12:54 From senthilkumar vaithilingam to Everyone:
+	a
+13:13:01 From Arshad Shaikh to Everyone:
+	c
+13:13:04 From Abazer Ali to Everyone:
+	C
+13:13:15 From Sherinay to Everyone:
+	A is risk management
+13:13:49 From Sherinay to Everyone:
+	B
+13:13:50 From Barzan Ahmed to Everyone:
+	D
+13:13:54 From ayesha ather to Everyone:
+	d
+13:13:56 From Sherinay to Everyone:
+	Human first.
+13:13:59 From Sherinay to Everyone:
+	B
+13:13:59 From Ovais Mohammad to Everyone:
+	D
+13:13:59 From Noman Syed to Everyone:
+	D
+13:14:01 From 0224 to Everyone:
+	D
+13:14:02 From ACihan to Everyone:
+	c
+13:14:03 From Shahid Syed to Everyone:
+	D
+13:14:03 From Shawn Ahmed to Everyone:
+	D
+13:14:03 From faizatabassum to Everyone:
+	d
+13:14:04 From kaame to Everyone:
+	b
+13:14:04 From Ranaa Rasul to Everyone:
+	D
+13:14:04 From codebase to Everyone:
+	D
+13:14:04 From MD BIPLOB to Everyone:
+	D
+13:14:04 From Sajid to Everyone:
+	B
+13:14:05 From Umar Rasul to Everyone:
+	D
+13:14:06 From Shamim Mazumder to Everyone:
+	D
+13:14:06 From senthilkumar vaithilingam to Everyone:
+	d
+13:14:06 From Abubakar Khan to Everyone:
+	D
+13:14:07 From Hadiya Ansari to Everyone:
+	d
+13:14:08 From suhaib to Everyone:
+	C
+13:14:09 From Arshad Shaikh to Everyone:
+	C
+13:14:10 From g arif to Everyone:
+	b
+13:14:13 From Farru to Everyone:
+	D
+13:14:14 From Rasool Pasha to Everyone:
+	c
+13:14:15 From Fasih Sheikh to Everyone:
+	D
+13:14:16 From Amer Nazimuddin 🇵🇸 to Everyone:
+	D
+13:14:16 From Syed Nabeel to Everyone:
+	D
+13:14:16 From said to Everyone:
+	A
+13:14:16 From Syed A to Everyone:
+	C
+13:14:17 From Rubeena to Everyone:
+	B
+13:14:18 From Nayyer to Everyone:
+	b
+13:14:19 From Nargis Alam to Everyone:
+	D
+13:14:19 From sarah to Everyone:
+	c
+13:14:19 From Alieu Dem to Everyone:
+	D
+13:14:20 From 41864-Mohammad Ziaul Karim to Everyone:
+	D
+13:14:21 From Monzer "Mike" to Everyone:
+	c
+13:14:22 From Abazer Ali to Everyone:
+	C
+13:14:26 From Ovais Mohammad to Everyone:
+	B
+13:14:30 From Boubacar Housseini to Everyone:
+	C
+13:14:30 From Abrar Aslam to Everyone:
+	C
+13:14:32 From HASNAIN to Everyone:
+	C
+13:14:35 From alchweki to Everyone:
+	c
+13:14:47 From Umair to Everyone:
+	B
+13:14:49 From Sherinay to Everyone:
+	BD si cyber security
+13:14:55 From nada to Everyone:
+	D
+13:14:55 From Fahim Ahmed to Everyone:
+	all of the above
+13:15:02 From Sherinay to Everyone:
+	D is cyber security
+13:15:14 From Nayyer to Everyone:
+	b
+13:15:15 From Fahim Ahmed to Everyone:
+	B
+13:15:15 From Shahmir Khan to Everyone:
+	B
+13:15:15 From ayesha ather to Everyone:
+	b
+13:15:15 From Sherinay to Everyone:
+	B
+13:15:16 From alchweki to Everyone:
+	b
+13:15:16 From HASNAIN to Everyone:
+	B
+13:15:16 From suhaib to Everyone:
+	B
+13:15:16 From g arif to Everyone:
+	b
+13:15:16 From 41864-Mohammad Ziaul Karim to Everyone:
+	B
+13:15:17 From Sajid to Everyone:
+	B
+13:15:17 From Ranaa Rasul to Everyone:
+	HIPPA
+13:15:18 From sarah to Everyone:
+	b
+13:15:18 From Nargis Alam to Everyone:
+	B
+13:15:18 From codebase to Everyone:
+	B
+13:15:18 From Fasih Sheikh to Everyone:
+	B
+13:15:20 From said to Everyone:
+	C
+13:15:20 From Shawn Ahmed to Everyone:
+	HIPAA
+13:15:20 From Farru to Everyone:
+	B
+13:15:21 From nada to Everyone:
+	B
+13:15:21 From Umar Rasul to Everyone:
+	B
+13:15:22 From Abubakar Khan to Everyone:
+	B
+13:15:22 From faizatabassum to Everyone:
+	b
+13:15:22 From Noman Syed to Everyone:
+	B
+13:15:22 From Rasool Pasha to Everyone:
+	b
+13:15:22 From Jehan Khan to Everyone:
+	B
+13:15:22 From Monzer "Mike" to Everyone:
+	b
+13:15:23 From kaame to Everyone:
+	b
+13:15:23 From Amer Nazimuddin 🇵🇸 to Everyone:
+	B
+13:15:24 From syeda to Everyone:
+	B
+13:15:24 From faraz khan to Everyone:
+	b - easy one
+13:15:24 From Barzan Ahmed to Everyone:
+	B
+13:15:25 From Syed Nabeel to Everyone:
+	B
+13:15:25 From Umair to Everyone:
+	B
+13:15:25 From Rubeena to Everyone:
+	B
+13:15:26 From Shamim Mazumder to Everyone:
+	B
+13:15:27 From Hadiya Ansari to Everyone:
+	b
+13:15:30 From 0224 to Everyone:
+	B
+13:15:31 From ACihan to Everyone:
+	b
+13:15:31 From Syed to Everyone:
+	B
+13:15:32 From Jibran to Everyone:
+	b
+13:15:32 From Ovais Mohammad to Everyone:
+	B
+13:15:35 From Syed A to Everyone:
+	B
+13:15:38 From senthilkumar vaithilingam to Everyone:
+	b
+13:15:38 From Shahid Syed to Everyone:
+	HIPAA
+13:15:44 From Boubacar Housseini to Everyone:
+	B
+13:15:44 From Reaaz to Everyone:
+	b
+13:15:45 From MD BIPLOB to Everyone:
+	B
+13:15:47 From Abrar Khan to Everyone:
+	b
+13:15:47 From Doreen Motsi to Everyone:
+	B
+13:15:50 From wquraishi to Everyone:
+	b
+13:15:54 From Najia to Everyone:
+	B
+13:15:54 From Abrar Aslam to Everyone:
+	Hippa
+13:15:55 From Anwar to Everyone:
+	B
+13:15:56 From Ahmed to Everyone:
+	B
+13:16:04 From Taha Tareen to Everyone:
+	HIpaa
+13:16:54 From Barzan Ahmed to Everyone:
+	C
+13:16:57 From Sherinay to Everyone:
+	C
+13:16:58 From Umar Rasul to Everyone:
+	C
+13:16:58 From Sajid to Everyone:
+	C
+13:16:58 From Azhar to Everyone:
+	C
+13:16:59 From Ranaa Rasul to Everyone:
+	PROBABILITY
+13:16:59 From Rasool Pasha to Everyone:
+	a
+13:17:02 From Amer Nazimuddin 🇵🇸 to Everyone:
+	C
+13:17:03 From g arif to Everyone:
+	c
+13:17:03 From Rubeena to Everyone:
+	C
+13:17:03 From Nayyer to Everyone:
+	c
+13:17:03 From Najia to Everyone:
+	C
+13:17:04 From faizatabassum to Everyone:
+	c
+13:17:04 From ACihan to Everyone:
+	c
+13:17:05 From Sherinay to Everyone:
+	C
+13:17:05 From Fasih Sheikh to Everyone:
+	C
+13:17:06 From HASNAIN to Everyone:
+	C
+13:17:06 From Shamim Mazumder to Everyone:
+	C
+13:17:06 From Sherinay to Everyone:
+	C
+13:17:06 From 41864-Mohammad Ziaul Karim to Everyone:
+	C
+13:17:07 From Syed Nabeel to Everyone:
+	C
+13:17:07 From Syed A to Everyone:
+	C
+13:17:07 From ayesha ather to Everyone:
+	c
+13:17:08 From syeda to Everyone:
+	c
+13:17:08 From 0224 to Everyone:
+	C
+13:17:08 From suhaib to Everyone:
+	C
+13:17:10 From Abrar Aslam to Everyone:
+	C
+13:17:10 From Nargis Alam to Everyone:
+	C
+13:17:11 From Abubakar Khan to Everyone:
+	C
+13:17:11 From sarah to Everyone:
+	c
+13:17:11 From Noman Syed to Everyone:
+	c
+13:17:12 From Reaaz to Everyone:
+	c
+13:17:12 From alchweki to Everyone:
+	c
+13:17:12 From said to Everyone:
+	C
+13:17:13 From MD BIPLOB to Everyone:
+	C
+13:17:15 From faraz khan to Everyone:
+	C
+13:17:16 From Hadiya Ansari to Everyone:
+	c
+13:17:18 From Anwar to Everyone:
+	C
+13:17:23 From Ovais Mohammad to Everyone:
+	C
+13:17:34 From Sherinay to Everyone:
+	C
+13:17:38 From nada to Everyone:
+	C
+13:17:39 From 41864-Mohammad Ziaul Karim to Everyone:
+	C
+13:17:40 From faizatabassum to Everyone:
+	c
+13:17:40 From Monzer "Mike" to Everyone:
+	bc
+13:17:40 From g arif to Everyone:
+	a
+13:17:40 From Sajid to Everyone:
+	C
+13:17:41 From suhaib to Everyone:
+	C
+13:17:42 From Reaaz to Everyone:
+	c
+13:17:42 From Umar Rasul to Everyone:
+	C
+13:17:42 From Fasih Sheikh to Everyone:
+	c
+13:17:43 From Syed Nabeel to Everyone:
+	c
+13:17:43 From ayesha ather to Everyone:
+	c
+13:17:44 From sarah to Everyone:
+	c
+13:17:44 From Shamim Mazumder to Everyone:
+	C
+13:17:46 From Syed A to Everyone:
+	C
+13:17:47 From ndella to Everyone:
+	c
+13:17:47 From Fayyaz Ahmed to Everyone:
+	C
+13:17:47 From nana to Everyone:
+	B
+13:17:48 From Abubakar Khan to Everyone:
+	c
+13:17:50 From Najia to Everyone:
+	C
+13:17:50 From faraz khan to Everyone:
+	c
+13:17:50 From Rubeena to Everyone:
+	C
+13:17:50 From Nargis Alam to Everyone:
+	C
+13:17:51 From Ranaa Rasul to Everyone:
+	C
+13:17:51 From alchweki to Everyone:
+	c
+13:17:51 From Noman Syed to Everyone:
+	c
+13:17:52 From Anwar to Everyone:
+	C
+13:17:52 From 0224 to Everyone:
+	C
+13:17:53 From Ovais Mohammad to Everyone:
+	C
+13:17:53 From senthilkumar vaithilingam to Everyone:
+	c
+13:17:54 From Abrar Khan to Everyone:
+	c
+13:17:56 From Amer Nazimuddin 🇵🇸 to Everyone:
+	C
+13:17:56 From ACihan to Everyone:
+	c
+13:17:56 From Hadiya Ansari to Everyone:
+	c
+13:17:56 From nana to Everyone:
+	C
+13:17:57 From Syed to Everyone:
+	C
+13:18:00 From g arif to Everyone:
+	c
+13:18:01 From syeda to Everyone:
+	c
+13:18:01 From Nayyer to Everyone:
+	c
+13:18:02 From Abazer Ali to Everyone:
+	C
+13:18:02 From Ranaa Rasul to Everyone:
+	C ALE = SLE * ARO
+13:18:05 From suhaib to Everyone:
+	C
+13:18:13 From Ahmed to Everyone:
+	D
+13:18:20 From Ahmed to Everyone:
+	C
+13:18:24 From said to Everyone:
+	C
+13:18:38 From Noman Syed to Everyone:
+	SLE
+13:18:39 From codebase to Everyone:
+	B
+13:18:41 From Barzan Ahmed to Everyone:
+	A
+13:18:43 From sarah to Everyone:
+	b
+13:18:45 From faizatabassum to Everyone:
+	a
+13:18:47 From nana to Everyone:
+	A
+13:18:49 From Sherinay to Everyone:
+	A
+13:18:51 From g arif to Everyone:
+	b
+13:18:51 From Ranaa Rasul to Everyone:
+	ARO
+13:18:52 From Syed A to Everyone:
+	A
+13:18:57 From Sajid to Everyone:
+	B
+13:18:57 From HASNAIN to Everyone:
+	B
+13:18:58 From Fayyaz Ahmed to Everyone:
+	B
+13:18:59 From Sherinay to Everyone:
+	A
+13:19:00 From faizatabassum to Everyone:
+	b
+13:19:03 From Umar Rasul to Everyone:
+	B
+13:19:03 From Sherinay to Everyone:
+	Accept
+13:19:03 From Syed A to Everyone:
+	B
+13:19:04 From Monzer "Mike" to Everyone:
+	b
+13:19:04 From Fasih Sheikh to Everyone:
+	c
+13:19:04 From Sherinay to Everyone:
+	B
+13:19:05 From Shamim Mazumder to Everyone:
+	C
+13:19:06 From ndella to Everyone:
+	b
+13:19:06 From Ranaa Rasul to Everyone:
+	B ACCEPT RISK
+13:19:06 From nana to Everyone:
+	C
+13:19:07 From Syed Nabeel to Everyone:
+	B
+13:19:08 From Abubakar Khan to Everyone:
+	b
+13:19:08 From Sherinay to Everyone:
+	C
+13:19:09 From syeda to Everyone:
+	b
+13:19:10 From senthilkumar vaithilingam to Everyone:
+	b
+13:19:10 From ndella to Everyone:
+	b
+13:19:10 From Hadiya Ansari to Everyone:
+	d
+13:19:11 From nada to Everyone:
+	C
+13:19:11 From Reaaz to Everyone:
+	b
+13:19:11 From ACihan to Everyone:
+	b
+13:19:12 From wquraishi to Everyone:
+	b
+13:19:12 From MD BIPLOB to Everyone:
+	C
+13:19:13 From Shawn Ahmed to Everyone:
+	Accept the Rish
+13:19:14 From Boubacar Housseini to Everyone:
+	B
+13:19:15 From Ovais Mohammad to Everyone:
+	B
+13:19:17 From Rubeena to Everyone:
+	B
+13:19:18 From g arif to Everyone:
+	b
+13:19:18 From suhaib to Everyone:
+	B
+13:19:19 From 41864-Mohammad Ziaul Karim to Everyone:
+	B
+13:19:19 From Nargis Alam to Everyone:
+	B
+13:19:19 From Amer Nazimuddin 🇵🇸 to Everyone:
+	B or c not sure
+13:19:20 From Shawn Ahmed to Everyone:
+	Accept the Risk
+13:19:20 From Nayyer to Everyone:
+	b
+13:19:21 From faraz khan to Everyone:
+	B
+13:19:22 From Abazer Ali to Everyone:
+	B
+13:19:22 From Azhar to Everyone:
+	B
+13:19:22 From ayesha ather to Everyone:
+	b
+13:19:25 From Sherinay to Everyone:
+	C
+13:19:25 From codebase to Everyone:
+	B
+13:19:25 From Noman Syed to Everyone:
+	B
+13:19:26 From sarah to Everyone:
+	c
+13:19:27 From ACihan to Everyone:
+	b
+13:19:37 From said to Everyone:
+	D
+13:19:48 From Barzan Ahmed to Everyone:
+	B
+13:19:56 From Fayyaz Ahmed to Everyone:
+	B
+13:19:57 From Sherinay to Everyone:
+	B
+13:19:57 From nana to Everyone:
+	B
+13:19:58 From faizatabassum to Everyone:
+	b
+13:19:59 From Umar Rasul to Everyone:
+	B
+13:19:59 From 41864-Mohammad Ziaul Karim to Everyone:
+	B
+13:19:59 From kaame to Everyone:
+	b
+13:19:59 From Shawn Ahmed to Everyone:
+	Insurance
+13:19:59 From faraz khan to Everyone:
+	Insurance
+13:20:00 From ayesha ather to Everyone:
+	b
+13:20:00 From Monzer "Mike" to Everyone:
+	b
+13:20:00 From wquraishi to Everyone:
+	b
+13:20:00 From codebase to Everyone:
+	B
+13:20:00 From Ranaa Rasul to Everyone:
+	B) INSURANCE
+13:20:01 From Fasih Sheikh to Everyone:
+	b
+13:20:01 From sarah to Everyone:
+	b
+13:20:02 From alchweki to Everyone:
+	b
+13:20:03 From ACihan to Everyone:
+	b
+13:20:04 From suhaib to Everyone:
+	B
+13:20:04 From Abrar Khan to Everyone:
+	b
+13:20:05 From said to Everyone:
+	B
+13:20:05 From Reaaz to Everyone:
+	b
+13:20:05 From Amer Nazimuddin 🇵🇸 to Everyone:
+	B
+13:20:05 From HASNAIN to Everyone:
+	B
+13:20:06 From Najia to Everyone:
+	B
+13:20:06 From Sajid to Everyone:
+	B
+13:20:06 From Shamim Mazumder to Everyone:
+	B
+13:20:06 From Boubacar Housseini to Everyone:
+	B
+13:20:07 From Syed Nabeel to Everyone:
+	B
+13:20:07 From Ovais Mohammad to Everyone:
+	B
+13:20:08 From Barzan Ahmed to Everyone:
+	B
+13:20:08 From Abubakar Khan to Everyone:
+	b
+13:20:08 From Jehan Khan to Everyone:
+	B
+13:20:09 From alchweki to Everyone:
+	b
+13:20:09 From Fahim Ahmed to Everyone:
+	b
+13:20:09 From senthilkumar vaithilingam to Everyone:
+	b
+13:20:09 From Noman Syed to Everyone:
+	b
+13:20:09 From Rubeena to Everyone:
+	B
+13:20:09 From Azhar to Everyone:
+	B
+13:20:10 From Jibran to Everyone:
+	b
+13:20:10 From suhaib to Everyone:
+	B
+13:20:13 From g arif to Everyone:
+	b
+13:20:14 From Abazer Ali to Everyone:
+	B
+13:20:16 From syeda to Everyone:
+	b
+13:20:16 From Nayyer to Everyone:
+	b
+13:20:16 From ndella to Everyone:
+	b
+13:20:16 From Syed to Everyone:
+	B
+13:20:17 From nada to Everyone:
+	B
+13:20:19 From Parsa to Everyone:
+	B
+13:20:19 From Hadiya Ansari to Everyone:
+	b
+13:20:21 From Nargis Alam to Everyone:
+	B
+13:20:26 From 0224 to Everyone:
+	B
+13:22:01 From faizatabassum to Everyone:
+	Its in two weeks from now
+13:22:17 From Ranaa Rasul to Everyone:
+	Reacted to "Its in two weeks fro..." with 👍
+13:22:28 From Monzer "Mike" to Everyone:
+	no class next weekend
+13:22:51 From Sherinay to Everyone:
+	Reacted to "no class next weeken..." with 👍🏻

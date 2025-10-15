@@ -1,0 +1,156 @@
+Year-end Summary for Performance and Development:
+
+High-level: My primary objective was to develop and implement an operational model for GATE, aligning with the firm's goals of quality efficiency and technology advancement.
+
+Details: Collaborating with multiple teams such as US AT SMO, Platform Engineering, Global SMO, SNOW team, GSOC, and Global Security teams, I assessed existing processes, crafted a strategy, and introduced the GATE approach and adoption framework for an operational model. This encompassed managing incident, L1 and L2 support, change and vulnerability management, licensing requirements, GAC's application onboarding, and setting up security operations and monitoring.
+
+Closing Summary:
+
+Throughout the year, I collaborated with the Global SMO and workload teams to deploy these processes, develop checklists, and establish Runbooks. As a result, the first workload on the GAC environment was successfully launched. To enhance productivity and deliverable quality, I also utilized Gen-AI to create relevant artifacts whenever appropriate.
+
+In terms of personal development, I pursued CISSP certification by participating in jumpstart bootcamps and focused on expanding my domain knowledge in the field of security. Additionally, I embraced the adoption of GEN AI to further align with the firm's goal of leveraging advanced technology.
+
+
+
+
+
+
+
+
+
+
+
+Year-end Summary for Performance and Development:
+
+High-level: My primary objective was to develop and implement an operational model for GATE, aligning with the firm's goals of quality efficiency and technology advancement.
+
+Details: Collaborating with multiple teams such as US AT SMO, Platform Engineering, Global SMO, SNOW team, GSOC, and Global Security teams, I assessed existing processes, crafted a strategy, and introduced the GATE approach and adoption framework for an operational model. Play the role where in when needed to achieve the goal
+
+This encompassed managing incident, L1 and L2 support, change and vulnerability management, licensing requirements, GAC's application onboarding, and setting up security operations and monitoring (below list).
+
+·       Incident Management
+·       L1 and L2 support
+·       Change Management
+·       Vulnerability Management
+·       Licensing requirements
+·       Application onboarding for GAC
+·       Setup of Security operations and monitoring 
+
+Closing Summary:
+Throughout the year, I collaborated with the Global SMO and workload teams to deploy these processes, develop checklists, and establish Runbooks. As a result, the first workload on the GAC environment was successfully launched on 6/21.
+
+I utilized Gen-AI to create key artifacts wherever relevant that enhanced productivity and quality of deliverable and so adopting to our organization goal. 
+
+In terms of personal development, I am pursuing CISSP certification by participating in jumpstart bootcamps and focused on expanding my domain knowledge in the field of security. Additionally, I embraced the adoption of GEN AI to further align with the firm's goal of leveraging advanced technology.
+
+
+Business
+
+Critical thinking
+Data analysis
+Digital literacy
+Facilitation
+Financial optimization 
+Firm citizenship
+Knowledge management
+Negotiation 
+Opportunity management
+Project management
+Communications 
+
+
+Leadership
+
+Apply a strategic perspective
+Build collaborative relationships
+Develop and motivate others
+Drive quality
+Foster innovation
+Make sound decisions
+Act ethically and responsibly
+Advocate for equality
+Take opportunities to learn and adapt
+
+
+Technical 
+
+Commercial acumen
+Industry
+Operational excellence
+Service and solution expertise
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://www.examtopics.com/exams/isc/cissp/
+
+https://www.examtopics.com/exams/isc/cissp/
+
+https://www.youtube.com/watch?v=_nyZhYnCNLA
+
+
+REwrite the below based on the Operations team deployment in production environment and generate the RACI
+The Team Lead from workload team  will submit a change request to the Change Review Board (CAB) requesting to deploy the solution to Production.
+CAB approval is received from relevant Stakeholders (For more information, refer to the Change Approval Board (CAB) Process).
+The workload team will prepare and create a Production stage in the Pipeline.
+The workload Team will ensure all deployment pre-work is completed in Production prior to Pipeline deployment.
+The Operations Team will deploy the infrastructure and or application code in coordination with Stakeholders using the developed Azure DevOps Pipeline during an agreed upon change window.
+The workload and business team will work to validate that the deployment is successful in coordination with Stakeholders.
+If the deployment in unsuccessful, Operations team will roll back the deployment based on the rollback plan submitted in the change request.
+If the deployment is successful, the worload  will notify Stakeholders to validate the Production environment.
+The team lead of workload team will track the next steps in Azure DevOps.
+Stakeholders will perform the validation based on the acceptance criteria on which the development has been completed and stated business objectives.
+If the validation is unsuccessful, the team lead of workload team will work with the Product Owner, Scrum Team, and Stakeholders to determine what steps are required to remediate and document them as User Stories.
+If the validation is successful, the team lead of workload team notify the Product Owner and Stakeholders that validation is complete and collect a final documented approval from the Product Owner.
+
+
+
+Rewrite and refine the below based based on industry best practices, SOX compliance, segregation of duties for production deployment and generate the RACI
+1. The Team Lead from workload team  will submit a change request to the Change Review Board (CAB) requesting to deploy the solution to Production.
+2. CAB approval is received from relevant Stakeholders (For more information, refer to the Change Approval Board (CAB) Process).
+3. The workload team will prepare and create a Production stage in the Pipeline.
+4. The workload Team will ensure all deployment pre-work is completed in Production prior to Pipeline deployment.
+5. The Operations Team will deploy the infrastructure and or application code in coordination with Stakeholders using the developed Azure DevOps Pipeline during an agreed upon change window.
+6. The workload and business team will work to validate that the deployment is successful in coordination with Stakeholders.
+6.a If the deployment in unsuccessful, Operations team will roll back the deployment based on the rollback plan submitted in the change request.
+6.b If the deployment is successful, the worload  will notify Stakeholders to validate the Production environment.
+7. The team lead of workload team will track the next steps in Azure DevOps.
+8. Stakeholders will perform the validation based on the acceptance criteria on which the development has been completed and stated business objectives.
+8.a If the validation is unsuccessful, the team lead of workload team will work with the Product Owner, Scrum Team, and Stakeholders to determine what steps are required to remediate and document them as User Stories.
+8.b If the validation is successful, the team lead of workload team notify the Product Owner and Stakeholders that validation is complete and collect a final documented approval from the Product Owner.
+
+
+
+
+
+
+
+
+
+

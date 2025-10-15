@@ -1,0 +1,77 @@
+Topic: EPIC - Cyber Security Certification (CISSP) Bootcamp
+Date: Feb 11, 2024
+
+Recording url: https://us06web.zoom.us/rec/share/mBZwwKnBED_p0L07DsJZp5CVgosnloCr80YIEm90IMTXSgikLdXqth-6lqQ5AOAq.KGGOOnrgGHPlwT_c
+Passcode: .&um&u0z
+
+
+•	Global infrastructure access: 
+•	The US AT team needs access to the global tenant and the gate team needs to provide use cases and workflows for the infrastructure support requests – Hariom/ Vishnu. 
+•	The access is a pre-requisite for the US AT L2 team to provide the required support and service for the global infrastructure and applications.
+
+Service Now related 
+•	Form creation: The form will be a generic one with two options for Global GPT and Global Discovery and will trigger an email to the gate team when submitted by the US AT team. 
+•	It would allow the US AT team to collect data and see what types of requests are coming in, and then create specific forms or workflows based on the use cases.
+•	It might not capture all the relevant information or details needed to resolve the issues, and it might be too broad or vague for the users.
+•	New Group :  The GROUP NAME Global Advisory Cloud Operations Support will be created in ServiceNow for the gate team to see the tickets submitted by their team and to receive notifications when tickets are assigned to them by the US AT team. 
+
+ Email distribution list for Global L1 Team : DLMCGlobalHelpCenterTeam@Kpmg.Com
+•	Training and documentation: The gate team will receive a slimmed down training on how to submit and view tickets in ServiceNow. – Christian 
+
+            List of L1 team provide with point of escalations and escalation matrix Level 1 and Level 2 to be provided by Global L1 team. 
+•	Global Operations team to provide a knowledge document, flow with the escalation matrix and the roles and responsibilities of the gate L1 and L2 teams. – Hariom / Vishnu / Prathiba
+Action Items:
+•	Global advisory cloud operations form: Create a generic form for requesting infrastructure support from L2 team. (Christian) 
+•	ServiceNow training: Train the gate L1 team on how to submit and view tickets in ServiceNow. (Christian) 
+•	
+•	Global GPT and discovery support: Outline the use cases, workflow and escalation matrix for L2 support for these applications. (Hariom and Prathibha) 
+•	Global infrastructure access: Provide access to Amit and his team to the global Azure tenant. (Hariom) 
+
+
+
+
+Jira
+Confluence 
+big bucket 
+qualtrics 
+Discovery GPT
+
+
+Climate IQ
+Benchmarking plus - AWS to Azure
+Signals - AWS to Azure
+
+
+Following up on my previous note, kindly reach out if you have any questions. Additionally, the action items and their respective owners discussed earlier are listed below. Please inform me of any inaccuracies in the assigned ownership, and I will make the necessary adjustments.
+
+Sl. No.	Tasks	Owner (Action item)
+| Provide a detailed breakdown, categorization, and list of high-level items from the attached gap document for each section. | Ateef & L2 support team
+| Develop a high-level (draft) plan and establish timelines for collaboration and knowledge transfer shadow sessions between the US AT and GATE Operations teams. | Ateef and Vishnu
+| Organize a weekly call on March 6th, Wednesday, at 8:30 AM CST to update on item (2) regarding knowledge transfer sessions and timelines. | Vishnu
+
+
+
+
+https://deliverybackbone.amr.kpmg.com/collaboration/display/DEACO/Change+Approval+Board+%28CAB%29+Process
+
+https://deliverybackbone.amr.kpmg.com/collaboration/display/DEACO/ServiceNow+Training
+
+https://deliverybackbone.amr.kpmg.com/collaboration/display/DEACO/Change+Approval+Board+%28CAB%29+Process
+
+
+I have had an extensive discussion with Christian Marquez about our Global L1 Support and utilization of ServiceNow. I would like to express my appreciation for Christian's willingness to share his expertise and valuable insights during this meeting.
+
+
+Prepare a security plan response to security control Asset and Configuration Managment around, 
+Configuration management policies and associated standards defined and documented. 
+Baseline configurations must be developed and documented. 
+Platform changes must follow a formal and structured process to ensure that proposed changes are authorized and auditable. 
+Inventory of all platform assets. 
+An inventory of critical technology assets on the platform (e.g., applications or services on a SaaS model and VPCs on a PaaS model) must be created, maintained, and reviewed at least annually in cooperation with the various business system owners. 
+All assets must be verified that they are not duplicated or listed as part of another system boundary's responsibility. 
+Restrict and monitor software usage. 
+Uniquely identify and authenticate organizational and nonorganizational assets. 
+Implement configuration settings, monitor, and document all approved deviations. 
+
+
+
